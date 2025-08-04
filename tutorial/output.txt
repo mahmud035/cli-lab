@@ -1,0 +1,11 @@
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:07:31 2025 dir1
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:07:31 2025 dir2
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:07:31 2025 dir3
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:08:03 2025 dir4
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:08:27 2025 folder 1
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:08:35 2025 folder 2
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:08:43 2025 folder 3
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:09:05 2025 folder 4
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:09:05 2025 folder 5
+drwxr-xr-x mahmud mahmud 4.0 KB Sun Jul 13 16:09:27 2025 folder 6
+.rw-r--r-- mahmud mahmud   0 B  Sun Jul 13 16:11:25 2025 output.txt

@@ -1,0 +1,203 @@
+aa-load
+aa-remove-unknown
+aa-status
+aa-teardown
+accessdb
+add-shell
+addgnupghome
+addgroup ⇒ adduser
+adduser
+agetty
+apparmor_parser
+apparmor_status ⇒ aa-status
+applygnupgdefaults
+arpd
+badblocks
+blkdeactivate
+blkdiscard
+blkid
+blkzone
+blockdev
+bridge
+capsh
+cfdisk
+cgdisk
+chcpu
+chgpasswd
+chmem
+chpasswd
+chroot
+cpgr ⇒ cppw
+cppw
+cron
+ctrlaltdel
+dcb
+debugfs
+delgroup ⇒ deluser
+deluser
+depmod ⇒ ../bin/kmod
+devlink
+dhcpcd
+dmsetup
+dmstats ⇒ dmsetup
+dpkg-preconfigure
+dpkg-reconfigure
+dumpe2fs
+e2freefrag
+e2fsck
+e2image
+e2label ⇒ tune2fs
+e2mmpstatus ⇒ dumpe2fs
+e2scrub
+e2scrub_all
+e2undo
+e4crypt
+e4defrag
+ethtool
+faillock
+fdisk
+filefrag
+findfs
+fixparts
+fsck
+fsck.cramfs
+fsck.ext2 ⇒ e2fsck
+fsck.ext3 ⇒ e2fsck
+fsck.ext4 ⇒ e2fsck
+fsck.minix
+fsfreeze
+fstab-decode
+fstrim
+gdisk
+genl
+getcap
+getpcaps
+getty ⇒ agetty
+groupadd
+groupdel
+groupmems
+groupmod
+grpck
+grpconv
+grpunconv
+halt ⇒ ../bin/systemctl
+iconvconfig
+init ⇒ ../lib/systemd/systemd
+insmod ⇒ ../bin/kmod
+install-sgmlcatalog
+installkernel
+invoke-rc.d
+ip ⇒ /bin/ip
+isosize
+kbdrate
+killall5
+ldattach
+ldconfig
+ldconfig.real
+locale-gen
+logrotate
+logsave
+losetup
+lsmod ⇒ ../bin/kmod
+mke2fs
+mkfs
+mkfs.bfs
+mkfs.cramfs
+mkfs.ext2 ⇒ mke2fs
+mkfs.ext3 ⇒ mke2fs
+mkfs.ext4 ⇒ mke2fs
+mkfs.minix
+mkhomedir_helper
+mklost+found
+mkswap
+modinfo ⇒ ../bin/kmod
+modprobe ⇒ ../bin/kmod
+mount.drvfs ⇒ /init
+mount.fuse ⇒ mount.fuse3
+mount.fuse3
+netplan ⇒ ../share/netplan/netplan.script
+newusers
+nologin
+pam-auth-update
+pam_extrausers_chkpwd
+pam_extrausers_update
+pam_getenv
+pam_namespace_helper
+pam_timestamp_check
+paperconfig
+pivot_root
+poweroff ⇒ ../bin/systemctl
+pwck
+pwconv
+pwhistory_helper
+pwunconv
+readprofile
+reboot ⇒ ../bin/systemctl
+remove-shell
+resize2fs
+resolvconf ⇒ ../bin/resolvectl
+rmmod ⇒ ../bin/kmod
+rmt ⇒ /etc/alternatives/rmt
+rmt-tar
+rsyslogd
+rtacct
+rtcwake
+rtmon
+runlevel ⇒ ../bin/systemctl
+runuser
+service
+setcap
+setvesablank
+setvtrgb
+sfdisk
+sgdisk
+shadowconfig
+shutdown ⇒ ../bin/systemctl
+sshd
+start-stop-daemon
+sudo_logsrvd
+sudo_sendlog
+sulogin
+swaplabel
+swapoff
+swapon
+switch_root
+sysctl
+tarcat
+tc
+tcptraceroute ⇒ /etc/alternatives/tcptraceroute
+tcptraceroute.db
+telinit ⇒ ../bin/systemctl
+tipc
+traceroute ⇒ /etc/alternatives/traceroute.sbin
+tune2fs
+unix_chkpwd
+unix_update
+update-ca-certificates
+update-catalog
+update-fonts-alias
+update-fonts-dir
+update-fonts-scale
+update-gsfontmap
+update-icon-caches
+update-info-dir
+update-locale
+update-motd
+update-passwd
+update-pciids
+update-rc.d
+update-shells
+update-xmlcatalog
+useradd
+userdel
+usermod
+uuidd
+validlocale
+vcstime
+vdpa
+vigr ⇒ vipw
+vipw
+visudo
+wipefs
+zic
+zramctl

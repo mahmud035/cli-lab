@@ -1,0 +1,1344 @@
+411toppm
+[
+aa-enabled
+aa-exec
+aa-features-abi
+add-apt-repository
+addpart
+addr2line ⇒ x86_64-linux-gnu-addr2line
+animate ⇒ /etc/alternatives/animate
+animate-im6 ⇒ /etc/alternatives/animate-im6
+animate-im6.q16
+anytopnm
+apport-bug
+apport-cli
+apport-collect ⇒ apport-bug
+apport-unpack
+appstreamcli
+apropos ⇒ whatis
+apt
+apt-add-repository ⇒ add-apt-repository
+apt-cache
+apt-cdrom
+apt-config
+apt-extracttemplates
+apt-ftparchive
+apt-get
+apt-key
+apt-mark
+apt-sortpkgs
+ar ⇒ x86_64-linux-gnu-ar
+arch
+as ⇒ x86_64-linux-gnu-as
+asciitopgm
+atktopbm
+automat-visualize3
+avstopam
+awk ⇒ /etc/alternatives/awk
+b2sum
+base32
+base64
+basename
+basenc
+bash
+bashbug
+batcat
+bc
+bdftopcf
+bdftruncate
+bioradtopgm
+bmptopnm
+bmptoppm ⇒ bmptopnm
+broadwayd
+brushtopbm
+bsondump
+btop
+busctl
+byobu
+byobu-config
+byobu-ctrl-a
+byobu-disable
+byobu-disable-prompt
+byobu-enable
+byobu-enable-prompt
+byobu-export
+byobu-janitor
+byobu-keybindings
+byobu-launch
+byobu-launcher
+byobu-launcher-install
+byobu-launcher-uninstall
+byobu-layout
+byobu-prompt
+byobu-quiet
+byobu-reconnect-sockets
+byobu-screen ⇒ byobu
+byobu-select-backend
+byobu-select-profile
+byobu-select-session
+byobu-shell
+byobu-silent
+byobu-status
+byobu-status-detail
+byobu-tmux ⇒ byobu
+byobu-ugraph
+byobu-ulevel
+c++filt ⇒ x86_64-linux-gnu-c++filt
+c_rehash
+cacaclock
+cacademo
+cacafire
+cacaplay
+cacaserver
+cacaview
+cal ⇒ ncal
+cameratopam
+captoinfo ⇒ tic
+cat
+catman
+cftp3
+chafa
+chage
+chardet ⇒ chardetect
+chardetect
+chattr
+chcon
+chfn
+chgrp
+chmod
+choom
+chown
+chrt
+chsh
+chvt
+cistopbm
+cjpeg
+ckbcomp
+ckeygen3
+cksum
+clear
+clear_console
+cloud-id
+cloud-init
+cloud-init-per
+cmp
+cmuwmtopbm
+codepage
+col
+col1
+col2 ⇒ col1
+col3 ⇒ col1
+col4 ⇒ col1
+col5 ⇒ col1
+col6 ⇒ col1
+col7 ⇒ col1
+col8 ⇒ col1
+col9 ⇒ col1
+colcrt
+colrm
+column
+comm
+compare ⇒ /etc/alternatives/compare
+compare-im6 ⇒ /etc/alternatives/compare-im6
+compare-im6.q16
+composite ⇒ /etc/alternatives/composite
+composite-im6 ⇒ /etc/alternatives/composite-im6
+composite-im6.q16
+conch3
+conjure ⇒ /etc/alternatives/conjure
+conjure-im6 ⇒ /etc/alternatives/conjure-im6
+conjure-im6.q16
+convert ⇒ /etc/alternatives/convert
+convert-im6 ⇒ /etc/alternatives/convert-im6
+convert-im6.q16
+corelist
+cp
+cpan
+cpan5.38-x86_64-linux-gnu
+crontab
+csplit
+ctail
+ctstat ⇒ lnstat
+curl
+cut
+cvtsudoers
+dash
+date
+dbus-cleanup-sockets
+dbus-daemon
+dbus-launch
+dbus-monitor
+dbus-run-session
+dbus-send
+dbus-update-activation-environment
+dbus-uuidgen
+dd
+ddbugtopbm
+deallocvt
+deb-systemd-helper
+deb-systemd-invoke
+debconf
+debconf-apt-progress
+debconf-communicate
+debconf-copydb
+debconf-escape
+debconf-set-selections
+debconf-show
+debian-distro-info
+delpart
+delv
+df
+dh_bash-completion
+dh_installxmlcatalogs
+diff
+diff3
+dig
+dir
+dircolors
+dirmngr
+dirmngr-client
+dirname
+display ⇒ /etc/alternatives/display
+display-im6 ⇒ /etc/alternatives/display-im6
+display-im6.q16
+distro-info ⇒ ubuntu-distro-info
+djpeg
+dmesg
+dnsdomainname ⇒ hostname
+do-release-upgrade
+domainname ⇒ hostname
+dpkg
+dpkg-deb
+dpkg-divert
+dpkg-maintscript-helper
+dpkg-query
+dpkg-realpath
+dpkg-split
+dpkg-statoverride
+dpkg-trigger
+du
+dumpkeys
+dvipdf
+dwp ⇒ x86_64-linux-gnu-dwp
+eatmydata
+ec2metadata
+echo
+ed
+editor ⇒ /etc/alternatives/editor
+egrep
+eject
+elfedit ⇒ x86_64-linux-gnu-elfedit
+enc2xs
+encguess
+env
+envsubst
+eps2eps
+eqn
+escp2topbm
+ex ⇒ /etc/alternatives/ex
+exifautotran
+expand
+expiry
+expr
+eyuvtoppm
+factor
+faillog
+fallocate
+false
+fc-cache
+fc-cat
+fc-conflist
+fc-list
+fc-match
+fc-pattern
+fc-query
+fc-scan
+fc-validate
+feh
+fgconsole
+fgrep
+fiascotopnm
+figlet ⇒ /etc/alternatives/figlet
+figlet-toilet ⇒ toilet
+file
+find
+findmnt
+fitstopnm
+flock
+fmt
+fold
+fonttosfnt
+free
+fstopgm
+funzip
+fuser
+fusermount ⇒ fusermount3
+fusermount3
+fzf
+fzf-tmux
+g3topbm
+gapplication
+gawk
+gawkbug
+gdbus
+gdk-pixbuf-csource
+gdk-pixbuf-pixdata
+gdk-pixbuf-thumbnailer
+gemtopbm ⇒ gemtopnm
+gemtopnm
+geqn ⇒ eqn
+getconf
+getent
+getkeycodes
+getopt
+gettext
+gettext.sh
+ghostscript ⇒ gs
+giftopnm
+ginstall-info ⇒ install-info
+gio
+gio-querymodules ⇒ ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+git
+git-receive-pack ⇒ git
+git-shell
+git-upload-archive ⇒ git
+git-upload-pack ⇒ git
+glib-compile-schemas ⇒ ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+gold ⇒ x86_64-linux-gnu-gold
+gouldtoppm
+gp-archive ⇒ x86_64-linux-gnu-gp-archive
+gp-collect-app ⇒ x86_64-linux-gnu-gp-collect-app
+gp-display-html ⇒ x86_64-linux-gnu-gp-display-html
+gp-display-src ⇒ x86_64-linux-gnu-gp-display-src
+gp-display-text ⇒ x86_64-linux-gnu-gp-display-text
+gpasswd
+gpg
+gpg-agent
+gpg-connect-agent
+gpg-wks-client
+gpgconf
+gpgparsemail
+gpgsm
+gpgsplit
+gpgtar
+gpgv
+gpic ⇒ pic
+gprof ⇒ x86_64-linux-gnu-gprof
+gprofng ⇒ x86_64-linux-gnu-gprofng
+grep
+gresource
+groff
+grog
+grops
+grotty
+groups
+growpart
+gs
+gsbj
+gsdj
+gsdj500
+gsettings
+gslj
+gslp
+gsnd
+gtbl ⇒ tbl
+gtk-builder-tool
+gtk-encode-symbolic-svg
+gtk-launch
+gtk-query-settings
+gtk-update-icon-cache
+gunzip
+gzexe
+gzip
+h2ph
+h2xs
+hardlink
+hd ⇒ hexdump
+hdifftopam
+head
+helpztags
+hexdump
+hipstopgm
+host
+hostid
+hostname
+hostnamectl
+hpcdtoppm
+htop
+hwe-support-status
+i386 ⇒ setarch
+icontopbm ⇒ sunicontopnm
+iconv
+id
+identify ⇒ /etc/alternatives/identify
+identify-im6 ⇒ /etc/alternatives/identify-im6
+identify-im6.q16
+ilbmtoppm
+imagetops
+img2sixel
+img2txt
+imgtoppm
+import ⇒ /etc/alternatives/import
+import-im6 ⇒ /etc/alternatives/import-im6
+import-im6.q16
+info
+infobrowser ⇒ /etc/alternatives/infobrowser
+infocmp
+infotocap ⇒ tic
+infotopam
+install
+install-info
+install_compass
+instmodsh
+ionice
+ip
+ipcmk
+ipcrm
+ipcs
+ischroot
+jbigtopnm
+join
+journalctl
+jp2a
+jpeg2ktopam
+jpegexiforient
+jpegtopnm
+jpegtran
+json-patch-jsondiff
+json_pp
+jsondiff ⇒ /etc/alternatives/jsondiff
+jsonpatch
+jsonpointer
+jsonschema
+JxrDecApp
+JxrEncApp
+kbd_mode
+kbdinfo
+kbxutil
+keep-one-running ⇒ run-one
+kernel-install
+kill
+killall
+kmod
+landscape-broker
+landscape-client
+landscape-config
+landscape-manager
+landscape-monitor
+landscape-package-changer
+landscape-package-reporter
+landscape-release-upgrader
+landscape-sysinfo
+last
+lastb ⇒ last
+lastlog
+lcf
+ld ⇒ x86_64-linux-gnu-ld
+ld.bfd ⇒ x86_64-linux-gnu-ld.bfd
+ld.gold ⇒ x86_64-linux-gnu-ld.gold
+ld.so ⇒ ../lib64/ld-linux-x86-64.so.2
+ldd
+leaftoppm
+less
+lessecho
+lessfile ⇒ lesspipe
+lesskey
+lesspipe
+lexgrog
+lft ⇒ /etc/alternatives/lft
+lft.db
+libnetcfg
+libsixel-config
+link
+linux32 ⇒ setarch
+linux64 ⇒ setarch
+lispmtopgm
+ln
+lnstat
+loadkeys
+loadunimap
+locale
+locale-check
+localectl
+localedef
+logger
+login
+loginctl
+logname
+look
+ls
+lsattr
+lsb_release
+lsblk
+lscpu
+lsd
+lshw
+lsipc
+lslocks
+lslogins
+lsmem
+lsmod ⇒ kmod
+lsns
+lsof
+lspci
+lspgpot
+lzcat ⇒ /etc/alternatives/lzcat
+lzcmp ⇒ /etc/alternatives/lzcmp
+lzdiff ⇒ /etc/alternatives/lzdiff
+lzegrep ⇒ /etc/alternatives/lzegrep
+lzfgrep ⇒ /etc/alternatives/lzfgrep
+lzgrep ⇒ /etc/alternatives/lzgrep
+lzless ⇒ /etc/alternatives/lzless
+lzma ⇒ /etc/alternatives/lzma
+lzmainfo
+lzmore ⇒ /etc/alternatives/lzmore
+macptopbm
+mailmail3
+man
+man-recode
+mandb
+manifest
+manpath
+mapscrn
+markdown-it
+mawk
+mcookie
+md5sum
+md5sum.textutils ⇒ md5sum
+mdatopbm
+mdig
+mesa-overlay-control.py
+mesg
+mgrtopbm
+migrate-pubring-from-classic-gpg
+mk_modmap
+mkdir
+mkfifo
+mkfontdir
+mkfontscale
+mknod
+mkpasswd
+mksquashfs
+mktemp
+mogrify ⇒ /etc/alternatives/mogrify
+mogrify-im6 ⇒ /etc/alternatives/mogrify-im6
+mogrify-im6.q16
+mongod
+mongodump
+mongoexport
+mongofiles
+mongoimport
+mongorestore
+mongos
+mongosh
+mongostat
+mongotop
+montage ⇒ /etc/alternatives/montage
+montage-im6 ⇒ /etc/alternatives/montage-im6
+montage-im6.q16
+more
+mount
+mountpoint
+mrftopbm
+mtr
+mtr-packet
+mtvtoppm
+mv
+namei
+nano
+nawk ⇒ /etc/alternatives/nawk
+nc ⇒ /etc/alternatives/nc
+nc.openbsd
+ncal
+neofetch
+neotoppm
+neqn
+netcat ⇒ /etc/alternatives/netcat
+networkctl
+networkd-dispatcher
+newgrp
+NF ⇒ col1
+ngettext
+nice
+nisdomainname ⇒ hostname
+nl
+nm ⇒ x86_64-linux-gnu-nm
+nohup
+nproc
+nroff
+nsenter
+nslookup
+nstat
+nsupdate
+numfmt
+objcopy ⇒ x86_64-linux-gnu-objcopy
+objdump ⇒ x86_64-linux-gnu-objdump
+od
+oem-getlogs
+openssl
+openvt
+pager ⇒ /etc/alternatives/pager
+palmtopnm
+pamaddnoise
+pamaltsat
+pamarith
+pambackground
+pambayer
+pambrighten
+pamcat
+pamchannel
+pamcomp
+pamcrater
+pamcut
+pamdeinterlace
+pamdepth
+pamdice
+pamditherbw
+pamedge
+pamendian
+pamenlarge
+pamexec
+pamfile
+pamfind
+pamfix
+pamfixtrunc
+pamflip
+pamfunc
+pamgauss
+pamgetcolor
+pamgradient
+pamhomography
+pamhue
+pamlevels
+pamlookup
+pammasksharpen
+pammixinterlace
+pammixmulti
+pammosaicknit
+pamoil
+pampaintspill
+pamperspective
+pampick
+pampop9
+pamrecolor
+pamrestack
+pamrgbatopng ⇒ pamtopng
+pamrubber
+pamscale
+pamseq
+pamshadedrelief
+pamsharpmap
+pamsharpness
+pamshuffle
+pamsistoaglyph
+pamslice
+pamsplit
+pamstack
+pamstereogram
+pamstretch
+pamstretch-gen
+pamsumm
+pamsummcol
+pamtable
+pamthreshold
+pamtilt
+pamtoavs
+pamtodjvurle
+pamtofits
+pamtogif
+pamtohdiff
+pamtohtmltbl
+pamtojpeg2k
+pamtompfont
+pamtooctaveimg
+pamtopam
+pamtopdbimg
+pamtopfm
+pamtopng
+pamtopnm
+pamtoqoi
+pamtosrf
+pamtosvg
+pamtotga
+pamtotiff
+pamtouil
+pamtowinicon
+pamtoxvmini
+pamtris
+pamundice
+pamunlookup
+pamvalidate
+pamwipeout
+pamx
+paperconf
+partx
+passwd
+paste
+pastebinit
+patch
+pathchk
+pbget ⇒ pbput
+pbmclean
+pbmlife
+pbmmake
+pbmmask
+pbmminkowski
+pbmnoise
+pbmpage
+pbmpscale
+pbmreduce
+pbmtext
+pbmtextps
+pbmto10x
+pbmto4425
+pbmtoascii
+pbmtoatk
+pbmtobbnbg
+pbmtocis
+pbmtocmuwm
+pbmtodjvurle
+pbmtoepsi
+pbmtoepson
+pbmtoescp2
+pbmtog3
+pbmtogem
+pbmtogo
+pbmtoibm23xx
+pbmtoicon ⇒ pbmtosunicon
+pbmtolj
+pbmtoln03
+pbmtolps
+pbmtomacp
+pbmtomatrixorbital
+pbmtomda
+pbmtomgr
+pbmtomrf
+pbmtonokia
+pbmtopgm
+pbmtopi3
+pbmtopk
+pbmtoplot
+pbmtoppa
+pbmtopsg3
+pbmtoptx
+pbmtosunicon
+pbmtowbmp
+pbmtox10bm
+pbmtoxbm
+pbmtoybm
+pbmtozinc
+pbmupc
+pbput
+pbputs ⇒ pbput
+pc1toppm
+pcdindex ⇒ pcdovtoppm
+pcdovtoppm
+pcxtoppm
+pdb3 ⇒ pdb3.12
+pdb3.12 ⇒ ../lib/python3.12/pdb.py
+pdbimgtopam
+pdf2dsc
+pdf2ps
+peekfd
+perl
+perl5.38-x86_64-linux-gnu
+perl5.38.2
+perlbug
+perldoc
+perlivp
+perlthanks
+pf2afm
+pfbtopfa
+pfmtopam
+pgmabel
+pgmbentley
+pgmcrater
+pgmdeshadow
+pgmedge ⇒ pamedge
+pgmenhance
+pgmhist
+pgmkernel
+pgmmake
+pgmmedian
+pgmminkowski
+pgmmorphconv
+pgmnoise
+pgmnorm ⇒ pnmnorm
+pgmoil ⇒ pamoil
+pgmramp
+pgmslice ⇒ pamslice
+pgmtexture
+pgmtofs
+pgmtolispm
+pgmtopbm
+pgmtopgm
+pgmtoppm
+pgmtosbig
+pgmtost4
+pgrep
+pi1toppm
+pi3topbm
+pic
+pico ⇒ /etc/alternatives/pico
+piconv
+pidof ⇒ ../sbin/killall5
+pidwait
+pinentry ⇒ /etc/alternatives/pinentry
+pinentry-curses
+ping
+ping4 ⇒ ping
+ping6 ⇒ ping
+pinky
+pjtoppm
+pkaction
+pkcheck
+pkcon
+pkill ⇒ pgrep
+pkmon
+pktopbm
+pkttyagent
+pl2pm
+pldd
+pmap
+pngtopam
+pngtopnm ⇒ pngtopam
+pnmalias
+pnmarith ⇒ pamarith
+pnmcat ⇒ pamcat
+pnmcolormap
+pnmcomp ⇒ pamcomp
+pnmconvol
+pnmcrop
+pnmcut ⇒ pamcut
+pnmdepth ⇒ pamdepth
+pnmenlarge ⇒ pamenlarge
+pnmfile ⇒ pamfile
+pnmflip
+pnmgamma
+pnmhisteq
+pnmhistmap
+pnmindex
+pnminterp ⇒ pamstretch
+pnminterp-gen ⇒ pamstretch-gen
+pnminvert
+pnmmargin
+pnmmercator
+pnmmontage
+pnmnlfilt
+pnmnoraw ⇒ pnmtoplainpnm
+pnmnorm
+pnmpad
+pnmpaste
+pnmpsnr
+pnmquant
+pnmquantall
+pnmremap
+pnmrotate
+pnmscale ⇒ pamscale
+pnmscalefixed
+pnmshear
+pnmsmooth
+pnmsplit ⇒ pamsplit
+pnmstitch
+pnmtile
+pnmtoddif
+pnmtofiasco
+pnmtofits ⇒ pamtofits
+pnmtojbig
+pnmtojpeg
+pnmtopalm
+pnmtopclxl
+pnmtoplainpnm
+pnmtopng
+pnmtopnm ⇒ pamtopnm
+pnmtops
+pnmtorast
+pnmtorle
+pnmtosgi
+pnmtosir
+pnmtotiff ⇒ pamtotiff
+pnmtotiffcmyk
+pnmtoxwd
+pod2html
+pod2man
+pod2text
+pod2usage
+podchecker
+pphs
+ppm3d
+ppmbrighten
+ppmchange
+ppmcie
+ppmcolormask
+ppmcolors
+ppmdcfont
+ppmddumpfont
+ppmdim
+ppmdist
+ppmdither
+ppmdmkfont
+ppmdraw
+ppmfade
+ppmflash
+ppmforge
+ppmglobe
+ppmhist
+ppmlabel
+ppmmake
+ppmmix
+ppmnorm ⇒ pnmnorm
+ppmntsc
+ppmpat
+ppmquant
+ppmquantall ⇒ pnmquantall
+ppmrainbow
+ppmrelief
+ppmrough
+ppmshadow
+ppmshift
+ppmspread
+ppmtoacad
+ppmtoapplevol
+ppmtoarbtxt
+ppmtoascii
+ppmtobmp
+ppmtoeyuv
+ppmtogif
+ppmtoicr
+ppmtoilbm
+ppmtojpeg ⇒ pnmtojpeg
+ppmtoleaf
+ppmtolj
+ppmtomap
+ppmtomitsu
+ppmtompeg
+ppmtoneo
+ppmtopcx
+ppmtopgm
+ppmtopi1
+ppmtopict
+ppmtopj
+ppmtopjxl
+ppmtoppm
+ppmtopuzz
+ppmtorgb3
+ppmtosixel
+ppmtospu
+ppmtoterm
+ppmtotga ⇒ pamtotga
+ppmtouil ⇒ pamtouil
+ppmtowinicon
+ppmtoxpm
+ppmtoyuv
+ppmtoyuvsplit
+ppmtv
+ppmwheel
+pr
+preconv
+printafm
+printenv
+printf
+prlimit
+pro ⇒ ubuntu-advantage
+prove
+prtstat
+ps
+ps2ascii
+ps2epsi
+ps2pdf
+ps2pdf12
+ps2pdf13
+ps2pdf14
+ps2pdfwr
+ps2ps
+ps2ps2
+ps2txt ⇒ ps2ascii
+psfaddtable ⇒ psfxtable
+psfgettable ⇒ psfxtable
+psfstriptable ⇒ psfxtable
+psfxtable
+psidtopgm
+pslog
+pstopnm
+pstree
+pstree.x11 ⇒ pstree
+ptar
+ptardiff
+ptargrep
+ptx
+purge-old-kernels
+pwd
+pwdx
+py3clean
+py3compile
+py3versions ⇒ ../share/python3/py3versions.py
+pybabel ⇒ /etc/alternatives/pybabel
+pybabel-python3
+pydoc3 ⇒ pydoc3.12
+pydoc3.12
+pygettext3 ⇒ pygettext3.12
+pygettext3.12
+pygmentize
+pyhtmlizer3
+pyserial-miniterm
+pyserial-ports
+python3 ⇒ python3.12
+python3.12
+qoitopam
+qrttoppm
+ranlib ⇒ x86_64-linux-gnu-ranlib
+rasttopnm
+rawtopgm
+rawtoppm
+rbash ⇒ bash
+rdjpgcom
+rdma
+readelf ⇒ x86_64-linux-gnu-readelf
+readlink
+realpath
+red
+rename.ul
+renice
+reset ⇒ tset
+resizecons
+resizepart
+resolvectl
+rev
+rg
+rgb3toppm
+rgrep
+rlatopam
+rletopnm
+rm
+rmdir
+rnano ⇒ nano
+routel
+rrsync
+rsync
+rsync-ssl
+rtstat ⇒ lnstat
+run-one
+run-one-constantly ⇒ run-one
+run-one-until-failure ⇒ run-one
+run-one-until-success ⇒ run-one
+run-parts
+run-this-one ⇒ run-one
+runcon
+rview ⇒ /etc/alternatives/rview
+rvim ⇒ /etc/alternatives/rvim
+rzsh ⇒ zsh
+savelog
+sbigtopgm
+scalar
+scp
+screendump
+script
+scriptlive
+scriptreplay
+sdiff
+sed
+select-editor
+sensible-browser
+sensible-editor
+sensible-pager
+sensible-terminal
+seq
+session-migration
+setarch
+setfont
+setkeycodes
+setleds
+setlogcons
+setmetamode
+setpci
+setpriv
+setsid
+setterm
+setupcon
+sftp
+sg ⇒ newgrp
+sgitopnm
+sh ⇒ dash
+sha1sum
+sha224sum
+sha256sum
+sha384sum
+sha512sum
+shasum
+shfmt
+showconsolefont
+showkey
+shred
+shuf
+sirtopnm
+sixel2png
+size ⇒ x86_64-linux-gnu-size
+skill
+slabtop
+sldtoppm
+sleep
+slogin ⇒ ssh
+snap
+snapctl ⇒ ../lib/snapd/snapctl
+snapfuse
+snice ⇒ skill
+soelim
+sort
+spctoppm
+splain
+split
+splitfont
+spottopgm
+sputoppm
+sqfscat ⇒ unsquashfs
+sqfstar ⇒ mksquashfs
+srftopam
+ss
+ssh
+ssh-add
+ssh-agent
+ssh-argv0
+ssh-copy-id
+ssh-keygen
+ssh-keyscan
+st4topgm
+stat
+stdbuf
+stream ⇒ /etc/alternatives/stream
+stream-im6 ⇒ /etc/alternatives/stream-im6
+stream-im6.q16
+streamzip
+strings ⇒ x86_64-linux-gnu-strings
+strip ⇒ x86_64-linux-gnu-strip
+stty
+su
+sudo
+sudoedit ⇒ sudo
+sudoreplay
+sum
+sunicontopnm
+svgtopam
+sync
+systemctl
+systemd ⇒ ../lib/systemd/systemd
+systemd-ac-power
+systemd-analyze
+systemd-ask-password
+systemd-cat
+systemd-cgls
+systemd-cgtop
+systemd-confext ⇒ systemd-sysext
+systemd-creds
+systemd-cryptenroll
+systemd-cryptsetup
+systemd-delta
+systemd-detect-virt
+systemd-escape
+systemd-firstboot
+systemd-hwdb
+systemd-id128
+systemd-inhibit
+systemd-machine-id-setup
+systemd-mount
+systemd-notify
+systemd-path
+systemd-repart
+systemd-run
+systemd-socket-activate
+systemd-stdio-bridge
+systemd-sysext
+systemd-sysusers
+systemd-tmpfiles
+systemd-tty-ask-password-agent
+systemd-umount ⇒ systemd-mount
+tabs
+tac
+tail
+tar
+taskset
+tbl
+tee
+tempfile
+test
+tgatoppm
+thinkjettopbm
+tic
+tifftopnm
+time
+timedatectl
+timeout
+tkconch3
+tldr ⇒ /etc/alternatives/tldr
+tldr-hs
+tload
+tmux
+toe
+toilet
+top
+touch
+tput
+tr
+traceproto ⇒ /etc/alternatives/traceproto
+traceproto.db
+traceroute ⇒ /etc/alternatives/traceroute
+traceroute-nanog
+traceroute.db
+traceroute6 ⇒ /etc/alternatives/traceroute6
+traceroute6.db ⇒ traceroute.db
+trial3
+troff
+true
+truncate
+tset
+tsort
+tty
+twist3
+twistd3
+tzselect
+ua ⇒ ubuntu-advantage
+ubuntu-advantage
+ubuntu-bug ⇒ apport-bug
+ubuntu-distro-info
+ubuntu-security-status
+ucf
+ucfq
+ucfr
+uclampset
+ucs2any
+udevadm
+ul
+umount
+uname
+unattended-upgrade
+unattended-upgrades ⇒ unattended-upgrade
+uncompress
+unexpand
+unicode_start
+unicode_stop
+uniq
+unlink
+unlzma ⇒ /etc/alternatives/unlzma
+unshare
+unsquashfs
+unxz ⇒ xz
+unzip
+unzipsfx
+update-alternatives
+update-mime-database
+uptime
+users
+utmpdump
+uuidgen
+uuidparse
+varlinkctl
+vcs-run
+vdir
+vi ⇒ /etc/alternatives/vi
+view ⇒ /etc/alternatives/view
+vigpg
+vim ⇒ /etc/alternatives/vim
+vim.basic
+vim.tiny
+vimdiff ⇒ /etc/alternatives/vimdiff
+vimtutor
+vmstat
+w
+w3m
+w3mman
+wall
+watch
+watchgnupg
+wbmptopbm
+wc
+wdctl
+wget
+whatis
+whereis
+which ⇒ /etc/alternatives/which
+which.debianutils
+whiptail
+who
+whoami
+whois
+wifi-status
+winicontopam
+winicontoppm
+write
+wrjpgcom
+wslinfo ⇒ /init
+wslpath ⇒ /init
+www-browser ⇒ /etc/alternatives/www-browser
+X11 ⇒ .
+x86_64 ⇒ setarch
+x86_64-linux-gnu-addr2line
+x86_64-linux-gnu-ar
+x86_64-linux-gnu-as
+x86_64-linux-gnu-c++filt
+x86_64-linux-gnu-dwp
+x86_64-linux-gnu-elfedit
+x86_64-linux-gnu-gold ⇒ x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-gp-archive
+x86_64-linux-gnu-gp-collect-app
+x86_64-linux-gnu-gp-display-html
+x86_64-linux-gnu-gp-display-src
+x86_64-linux-gnu-gp-display-text
+x86_64-linux-gnu-gprof
+x86_64-linux-gnu-gprofng
+x86_64-linux-gnu-ld ⇒ x86_64-linux-gnu-ld.bfd
+x86_64-linux-gnu-ld.bfd
+x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-nm
+x86_64-linux-gnu-objcopy
+x86_64-linux-gnu-objdump
+x86_64-linux-gnu-ranlib
+x86_64-linux-gnu-readelf
+x86_64-linux-gnu-size
+x86_64-linux-gnu-strings
+x86_64-linux-gnu-strip
+xargs
+xauth
+xbmtopbm
+xdg-user-dir
+xdg-user-dirs-update
+ximtoppm
+xpmtoppm
+xsubpp
+xvminitoppm
+xwdtopnm
+xxd
+xz
+xzcat ⇒ xz
+xzcmp ⇒ xzdiff
+xzdiff
+xzegrep ⇒ xzgrep
+xzfgrep ⇒ xzgrep
+xzgrep
+xzless
+xzmore
+ybmtopbm
+yes
+ypdomainname ⇒ hostname
+yuvsplittoppm
+yuvtoppm
+yuy2topam
+zcat
+zcmp
+zdiff
+zdump
+zegrep
+zeisstopnm
+zfgrep
+zforce
+zgrep
+zip
+zipcloak
+zipdetails
+zipgrep
+zipinfo
+zipnote
+zipsplit
+zless
+zmore
+znew
+zsh
+zsh5
