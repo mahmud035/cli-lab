@@ -1,0 +1,17 @@
+Agouti
+Atlantic Titi
+Blue and Gold Macaw
+Capuchin
+Capybara
+Collared Peccary
+Green-Winged Macaw
+Mealy Parrot
+Monk Saki Monkey
+Red Howler Monkey
+Scarlet Macaw
+Spectacled Caiman
+Spider Monkey
+Tapir
+Tue Aug 12 21:57:23 +06 2025
+Green Anaconda
+zsh: command not found: ughhh
