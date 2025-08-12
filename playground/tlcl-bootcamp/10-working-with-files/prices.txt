@@ -1,0 +1,6 @@
+racecar		49.00
+chocolate	19.99
+pencil		0.50
+house		199.99
+pizza		5.00
+fish		13
