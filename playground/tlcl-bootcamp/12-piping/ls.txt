@@ -1,0 +1,1454 @@
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 411toppm
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 [
+.rwxr-xr-x root   root      18 KB Thu Mar 20 00:09:43 2025 aa-enabled
+.rwxr-xr-x root   root      18 KB Thu Mar 20 00:09:43 2025 aa-exec
+.rwxr-xr-x root   root      18 KB Thu Mar 20 00:09:43 2025 aa-features-abi
+.rwxr-xr-x root   root      16 KB Wed Feb 19 03:26:10 2025 add-apt-repository
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 addpart
+lrwxrwxrwx root   root      26 B  Mon Mar 10 19:52:52 2025 addr2line ⇒ x86_64-linux-gnu-addr2line
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 animate ⇒ /etc/alternatives/animate
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 animate-im6 ⇒ /etc/alternatives/animate-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 animate-im6.q16
+.rwxr-xr-x root   root      12 KB Sun Mar 31 14:09:47 2024 anytopnm
+.rwxr-xr-x root   root     2.3 KB Thu Apr 18 18:31:35 2024 apport-bug
+.rwxr-xr-x root   root      13 KB Tue Jul  8 20:50:50 2025 apport-cli
+lrwxrwxrwx root   root      10 B  Tue Jul  8 20:50:50 2025 apport-collect ⇒ apport-bug
+.rwxr-xr-x root   root     3.7 KB Tue Jul  8 20:50:50 2025 apport-unpack
+.rwxr-xr-x root   root     138 KB Mon Apr  8 20:37:41 2024 appstreamcli
+lrwxrwxrwx root   root       6 B  Mon Apr  8 20:45:49 2024 apropos ⇒ whatis
+.rwxr-xr-x root   root      18 KB Tue Oct 22 19:02:22 2024 apt
+lrwxrwxrwx root   root      18 B  Wed Feb 19 03:26:10 2025 apt-add-repository ⇒ add-apt-repository
+.rwxr-xr-x root   root      86 KB Tue Oct 22 19:02:22 2024 apt-cache
+.rwxr-xr-x root   root      26 KB Tue Oct 22 19:02:22 2024 apt-cdrom
+.rwxr-xr-x root   root      30 KB Tue Oct 22 19:02:22 2024 apt-config
+.rwxr-xr-x root   root      22 KB Tue Oct 22 19:02:22 2024 apt-extracttemplates
+.rwxr-xr-x root   root     222 KB Tue Oct 22 19:02:22 2024 apt-ftparchive
+.rwxr-xr-x root   root      50 KB Tue Oct 22 19:02:22 2024 apt-get
+.rwxr-xr-x root   root      28 KB Tue Oct 22 19:02:22 2024 apt-key
+.rwxr-xr-x root   root      54 KB Tue Oct 22 19:02:22 2024 apt-mark
+.rwxr-xr-x root   root      50 KB Tue Oct 22 19:02:22 2024 apt-sortpkgs
+lrwxrwxrwx root   root      19 B  Mon Mar 10 19:52:52 2025 ar ⇒ x86_64-linux-gnu-ar
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 arch
+lrwxrwxrwx root   root      19 B  Mon Mar 10 19:52:52 2025 as ⇒ x86_64-linux-gnu-as
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 asciitopgm
+.rwxr-xr-x root   root     150 KB Mon Apr  8 21:54:10 2024 aspell
+.rwxr-xr-x root   root     2.0 KB Mon Apr  8 21:54:10 2024 aspell-import
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 atktopbm
+.rwxr-xr-x root   root     984 B  Tue Jan  2 14:49:16 2024 automat-visualize3
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 avstopam
+lrwxrwxrwx root   root      21 B  Mon Apr  8 22:12:02 2024 awk ⇒ /etc/alternatives/awk
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 b2sum
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 base32
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 base64
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 basename
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 basenc
+.rwxr-xr-x root   root     1.4 MB Sun Mar 31 14:41:03 2024 bash
+.rwxr-xr-x root   root     6.8 KB Sun Mar 31 14:41:03 2024 bashbug
+.rwxr-xr-x root   root     5.0 MB Mon Dec  4 14:41:05 2023 batcat
+.rwxr-xr-x root   root      91 KB Mon Apr  8 20:37:38 2024 bc
+.rwxr-xr-x root   root      42 KB Mon Apr  8 22:22:57 2024 bdftopcf
+.rwxr-xr-x root   root      14 KB Mon Apr  8 22:22:57 2024 bdftruncate
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 bioradtopgm
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 bmptopnm
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 bmptoppm ⇒ bmptopnm
+.rwxr-xr-x root   root     122 KB Tue Jan 28 01:56:56 2025 broadwayd
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 brushtopbm
+.rwxr-xr-x mahmud mahmud    11 MB Wed Jun  4 23:19:57 2025 bsondump
+.rwxr-xr-x root   root     1.4 MB Sat Jan 27 07:30:00 2024 btop
+.rwxr-xr-x root   root      38 KB Fri Aug  9 08:33:21 2024 bunzip2
+.rwxr-xr-x root   root      95 KB Wed Jul  2 20:04:32 2025 busctl
+.rwxr-xr-x root   root     8.5 KB Sat Feb 10 23:03:36 2024 byobu
+.rwxr-xr-x root   root     996 B  Sat Feb 10 23:03:36 2024 byobu-config
+.rwxr-xr-x root   root     4.7 KB Sat Feb 10 23:03:36 2024 byobu-ctrl-a
+.rwxr-xr-x root   root     1.3 KB Sat Feb 10 23:03:36 2024 byobu-disable
+.rwxr-xr-x root   root     1.3 KB Sat Feb 10 23:03:36 2024 byobu-disable-prompt
+.rwxr-xr-x root   root     1.2 KB Sat Feb 10 23:03:36 2024 byobu-enable
+.rwxr-xr-x root   root     1.4 KB Sat Feb 10 23:03:36 2024 byobu-enable-prompt
+.rwxr-xr-x root   root     1.4 KB Sat Feb 10 23:03:36 2024 byobu-export
+.rwxr-xr-x root   root     7.0 KB Sat Feb 10 23:03:36 2024 byobu-janitor
+.rwxr-xr-x root   root     1.5 KB Sat Feb 10 23:03:36 2024 byobu-keybindings
+.rwxr-xr-x root   root     3.3 KB Sat Feb 10 23:03:36 2024 byobu-launch
+.rwxr-xr-x root   root     1.9 KB Sat Feb 10 23:03:36 2024 byobu-launcher
+.rwxr-xr-x root   root     2.5 KB Sat Feb 10 23:03:36 2024 byobu-launcher-install
+.rwxr-xr-x root   root     1.5 KB Sat Feb 10 23:03:36 2024 byobu-launcher-uninstall
+.rwxr-xr-x root   root     3.3 KB Sat Feb 10 23:03:36 2024 byobu-layout
+.rwxr-xr-x root   root     1.1 KB Sat Feb 10 23:03:36 2024 byobu-prompt
+.rwxr-xr-x root   root     1.4 KB Sat Feb 10 23:03:36 2024 byobu-quiet
+.rwxr-xr-x root   root     3.2 KB Sat Feb 10 23:03:36 2024 byobu-reconnect-sockets
+lrwxrwxrwx root   root       5 B  Sat Feb 10 23:03:36 2024 byobu-screen ⇒ byobu
+.rwxr-xr-x root   root     1.4 KB Sat Feb 10 23:03:36 2024 byobu-select-backend
+.rwxr-xr-x root   root     5.1 KB Sat Feb 10 23:03:36 2024 byobu-select-profile
+.rwxr-xr-x root   root    1012 B  Sat Feb 10 23:03:36 2024 byobu-select-session
+.rwxr-xr-x root   root     1.7 KB Sat Feb 10 23:03:36 2024 byobu-shell
+.rwxr-xr-x root   root     1.3 KB Sat Feb 10 23:03:36 2024 byobu-silent
+.rwxr-xr-x root   root     5.9 KB Sat Feb 10 23:03:36 2024 byobu-status
+.rwxr-xr-x root   root     1.2 KB Sat Feb 10 23:03:36 2024 byobu-status-detail
+lrwxrwxrwx root   root       5 B  Sat Feb 10 23:03:36 2024 byobu-tmux ⇒ byobu
+.rwxr-xr-x root   root     4.6 KB Sat Feb 10 23:03:36 2024 byobu-ugraph
+.rwxr-xr-x root   root      12 KB Sat Feb 10 23:03:36 2024 byobu-ulevel
+.rwxr-xr-x root   root      38 KB Fri Aug  9 08:33:21 2024 bzcat
+lrwxrwxrwx root   root       6 B  Fri Aug  9 08:33:21 2024 bzcmp ⇒ bzdiff
+.rwxr-xr-x root   root     2.2 KB Fri Aug  9 08:33:21 2024 bzdiff
+lrwxrwxrwx root   root       6 B  Fri Aug  9 08:33:21 2024 bzegrep ⇒ bzgrep
+.rwxr-xr-x root   root     4.8 KB Sat Nov 27 18:25:05 2021 bzexe
+lrwxrwxrwx root   root       6 B  Fri Aug  9 08:33:21 2024 bzfgrep ⇒ bzgrep
+.rwxr-xr-x root   root     3.7 KB Fri Aug  9 08:33:21 2024 bzgrep
+.rwxr-xr-x root   root      38 KB Fri Aug  9 08:33:21 2024 bzip2
+.rwxr-xr-x root   root      18 KB Fri Aug  9 08:33:21 2024 bzip2recover
+lrwxrwxrwx root   root       6 B  Fri Aug  9 08:33:21 2024 bzless ⇒ bzmore
+.rwxr-xr-x root   root     1.3 KB Fri Aug  9 08:33:21 2024 bzmore
+lrwxrwxrwx root   root      21 B  Wed Jan 31 19:09:40 2024 c++ ⇒ /etc/alternatives/c++
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 c++filt ⇒ x86_64-linux-gnu-c++filt
+lrwxrwxrwx root   root      21 B  Wed Nov 18 00:53:07 2020 c89 ⇒ /etc/alternatives/c89
+.rwxr-xr-x root   root     428 B  Wed Nov 18 00:53:07 2020 c89-gcc
+lrwxrwxrwx root   root      21 B  Wed Nov 18 00:53:07 2020 c99 ⇒ /etc/alternatives/c99
+.rwxr-xr-x root   root     454 B  Wed Nov 18 00:53:07 2020 c99-gcc
+.rwxr-xr-x root   root     6.7 KB Wed Feb  5 19:17:43 2025 c_rehash
+.rwxr-xr-x root   root      14 KB Sun Mar 31 13:45:02 2024 cacaclock
+.rwxr-xr-x root   root     278 KB Sun Mar 31 13:45:02 2024 cacademo
+.rwxr-xr-x root   root      18 KB Sun Mar 31 13:45:02 2024 cacafire
+.rwxr-xr-x root   root      14 KB Sun Mar 31 13:45:02 2024 cacaplay
+.rwxr-xr-x root   root      18 KB Sun Mar 31 13:45:02 2024 cacaserver
+.rwxr-xr-x root   root      22 KB Sun Mar 31 13:45:02 2024 cacaview
+lrwxrwxrwx root   root       4 B  Mon Feb 20 15:19:03 2023 cal ⇒ ncal
+.rwxr-xr-x root   root     110 KB Sun Mar 31 14:09:47 2024 cameratopam
+lrwxrwxrwx root   root       3 B  Mon Apr  8 22:14:03 2024 captoinfo ⇒ tic
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 cat
+.rwxr-xr-x root   root      31 KB Mon Apr  8 20:45:49 2024 catman
+lrwxrwxrwx root   root      20 B  Wed Jan 31 19:09:40 2024 cc ⇒ /etc/alternatives/cc
+.rwxr-xr-x root   root     224 B  Tue Aug 27 16:30:39 2024 cftp3
+.rwxr-xr-x root   root     170 KB Sun Mar 31 13:29:34 2024 chafa
+.rwxr-sr-x root   shadow    70 KB Thu May 30 20:52:35 2024 chage
+lrwxrwxrwx root   root      10 B  Sun Aug 20 18:12:03 2023 chardet ⇒ chardetect
+.rwxr-xr-x root   root     221 B  Sun Aug 20 18:12:03 2023 chardetect
+.rwxr-xr-x root   root      14 KB Mon Apr 29 05:44:46 2024 chattr
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 chcon
+.rwsr-xr-x root   root      71 KB Thu May 30 20:52:35 2024 chfn
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 chgrp
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 chmod
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 choom
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 chown
+.rwxr-xr-x root   root      30 KB Thu Jun  5 18:17:38 2025 chrt
+.rwsr-xr-x root   root      44 KB Thu May 30 20:52:35 2024 chsh
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 chvt
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 cistopbm
+.rwxr-xr-x root   root      42 KB Mon Apr 22 15:45:35 2024 cjpeg
+.rwxr-xr-x root   root     147 KB Mon Feb 26 18:58:31 2024 ckbcomp
+.rwxr-xr-x root   root     227 B  Tue Aug 27 16:30:39 2024 ckeygen3
+.rwxr-xr-x root   root     102 KB Fri Apr  5 20:36:57 2024 cksum
+.rwxr-xr-x root   root      14 KB Mon Apr  8 22:14:03 2024 clear
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:41:03 2024 clear_console
+.rwxr-xr-x root   root     972 B  Wed Jun 25 03:14:03 2025 cloud-id
+.rwxr-xr-x root   root     976 B  Wed Jun 25 03:14:03 2025 cloud-init
+.rwxr-xr-x root   root     2.1 KB Wed Jun 25 02:50:00 2025 cloud-init-per
+.rwxr-xr-x root   root      42 KB Mon Apr  8 21:55:59 2024 cmp
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 cmuwmtopbm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 codepage
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 col
+.rwxr-xr-x root   root     963 B  Sat Feb 10 23:03:36 2024 col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col2 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col3 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col4 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col5 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col6 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col7 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col8 ⇒ col1
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 col9 ⇒ col1
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 colcrt
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 colrm
+.rwxr-xr-x root   root      38 KB Thu Jun  5 18:17:38 2025 column
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 comm
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 compare ⇒ /etc/alternatives/compare
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 compare-im6 ⇒ /etc/alternatives/compare-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 compare-im6.q16
+lrwxrwxrwx root   root      27 B  Sun Mar 31 07:25:01 2024 composite ⇒ /etc/alternatives/composite
+lrwxrwxrwx root   root      31 B  Sun Mar 31 07:25:01 2024 composite-im6 ⇒ /etc/alternatives/composite-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 composite-im6.q16
+.rwxr-xr-x root   root     225 B  Tue Aug 27 16:30:39 2024 conch3
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 conjure ⇒ /etc/alternatives/conjure
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 conjure-im6 ⇒ /etc/alternatives/conjure-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 conjure-im6.q16
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 convert ⇒ /etc/alternatives/convert
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 convert-im6 ⇒ /etc/alternatives/convert-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 convert-im6.q16
+.rwxr-xr-x root   root      15 KB Fri Jul 25 23:26:40 2025 corelist
+.rwxr-xr-x root   root     138 KB Fri Apr  5 20:36:57 2024 cp
+.rwxr-xr-x root   root     8.2 KB Fri Jul 25 23:26:40 2025 cpan
+.rwxr-xr-x root   root     8.2 KB Fri Jul 25 23:26:40 2025 cpan5.38-x86_64-linux-gnu
+lrwxrwxrwx root   root       6 B  Wed Jan 31 19:09:40 2024 cpp ⇒ cpp-13
+lrwxrwxrwx root   root      23 B  Wed Sep  4 20:44:14 2024 cpp-13 ⇒ x86_64-linux-gnu-cpp-13
+.rwxr-sr-x root   crontab   39 KB Sun Mar 31 06:06:27 2024 crontab
+.rwxr-xr-x root   root      50 KB Fri Apr  5 20:36:57 2024 csplit
+.rwxr-xr-x root   root     960 B  Sat Feb 10 23:03:36 2024 ctail
+lrwxrwxrwx root   root       6 B  Thu Jul 10 20:46:54 2025 ctstat ⇒ lnstat
+.rwxr-xr-x root   root     290 KB Wed Dec 11 22:44:19 2024 curl
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 cut
+.rwxr-xr-x root   root     321 KB Wed Jun 25 18:42:53 2025 cvtsudoers
+.rwxr-xr-x root   root     127 KB Sun Mar 31 14:47:26 2024 dash
+.rwxr-xr-x root   root     106 KB Fri Apr  5 20:36:57 2024 date
+.rwxr-xr-x root   root      14 KB Fri Aug  9 08:33:22 2024 dbus-cleanup-sockets
+.rwxr-xr-x root   root     231 KB Fri Aug  9 08:33:22 2024 dbus-daemon
+.rwxr-xr-x root   root      30 KB Fri Aug  9 08:33:22 2024 dbus-launch
+.rwxr-xr-x root   root      26 KB Fri Aug  9 08:33:22 2024 dbus-monitor
+.rwxr-xr-x root   root      14 KB Fri Aug  9 08:33:22 2024 dbus-run-session
+.rwxr-xr-x root   root      30 KB Fri Aug  9 08:33:22 2024 dbus-send
+.rwxr-xr-x root   root      14 KB Fri Aug  9 08:33:22 2024 dbus-update-activation-environment
+.rwxr-xr-x root   root      14 KB Fri Aug  9 08:33:22 2024 dbus-uuidgen
+.rwxr-xr-x root   root      70 KB Fri Apr  5 20:36:57 2024 dd
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ddbugtopbm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 deallocvt
+.rwxr-xr-x root   root      24 KB Wed Dec  6 13:46:52 2023 deb-systemd-helper
+.rwxr-xr-x root   root     7.0 KB Wed Dec  6 13:47:58 2023 deb-systemd-invoke
+.rwxr-xr-x root   root     2.8 KB Fri Apr 12 18:40:53 2024 debconf
+.rwxr-xr-x root   root      12 KB Fri Apr 12 18:40:53 2024 debconf-apt-progress
+.rwxr-xr-x root   root     623 B  Fri Apr 12 18:40:53 2024 debconf-communicate
+.rwxr-xr-x root   root     1.7 KB Fri Apr 12 18:40:53 2024 debconf-copydb
+.rwxr-xr-x root   root     668 B  Fri Apr 12 18:40:53 2024 debconf-escape
+.rwxr-xr-x root   root     3.1 KB Fri Apr 12 18:40:53 2024 debconf-set-selections
+.rwxr-xr-x root   root     1.8 KB Fri Apr 12 18:40:53 2024 debconf-show
+.rwxr-xr-x root   root      31 KB Mon Apr  8 21:56:08 2024 debian-distro-info
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 delpart
+.rwxr-xr-x root   root      45 KB Tue Jan 28 20:26:30 2025 delv
+.rwxr-xr-x root   root      87 KB Fri Apr  5 20:36:57 2024 df
+.rwxr-xr-x root   root     4.4 KB Mon Apr 17 07:29:45 2023 dh_bash-completion
+.rwxr-xr-x root   root     9.2 KB Tue Dec 12 08:01:07 2023 dh_installxmlcatalogs
+.rwxr-xr-x root   root     134 KB Mon Apr  8 21:55:59 2024 diff
+.rwxr-xr-x root   root      58 KB Mon Apr  8 21:55:59 2024 diff3
+.rwxr-xr-x root   root     151 KB Tue Jan 28 20:26:30 2025 dig
+.rwxr-xr-x root   root     139 KB Fri Apr  5 20:36:57 2024 dir
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 dircolors
+.rwxr-xr-x root   root     474 KB Thu Jun 26 19:17:22 2025 dirmngr
+.rwxr-xr-x root   root      55 KB Thu Jun 26 19:17:22 2025 dirmngr-client
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 dirname
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 display ⇒ /etc/alternatives/display
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 display-im6 ⇒ /etc/alternatives/display-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 display-im6.q16
+lrwxrwxrwx root   root      18 B  Mon Apr  8 21:56:08 2024 distro-info ⇒ ubuntu-distro-info
+.rwxr-xr-x root   root      34 KB Mon Apr 22 15:45:35 2024 djpeg
+.rwxr-xr-x root   root      69 KB Thu Jun  5 18:17:38 2025 dmesg
+lrwxrwxrwx root   root       8 B  Mon Apr  8 21:59:01 2024 dnsdomainname ⇒ hostname
+.rwxr-xr-x root   root      10 KB Fri Jul 25 22:08:16 2025 do-release-upgrade
+lrwxrwxrwx root   root       8 B  Mon Apr  8 21:59:01 2024 domainname ⇒ hostname
+.rwxr-xr-x root   root     311 KB Wed Jul 17 15:09:50 2024 dpkg
+.rwxr-xr-x root   root      15 KB Wed Jul 17 15:09:50 2024 dpkg-architecture
+.rwxr-xr-x root   root     1.8 KB Wed Jul 17 15:09:50 2024 dpkg-buildapi
+.rwxr-xr-x root   root     8.1 KB Wed Jul 17 15:09:50 2024 dpkg-buildflags
+.rwxr-xr-x root   root      34 KB Wed Jul 17 15:09:50 2024 dpkg-buildpackage
+.rwxr-xr-x root   root     1.9 KB Wed Jul 17 15:09:50 2024 dpkg-buildtree
+.rwxr-xr-x root   root     7.4 KB Wed Jul 17 15:09:50 2024 dpkg-checkbuilddeps
+.rwxr-xr-x root   root     143 KB Wed Jul 17 15:09:50 2024 dpkg-deb
+.rwxr-xr-x root   root     2.7 KB Wed Jul 17 15:09:50 2024 dpkg-distaddfile
+.rwxr-xr-x root   root     119 KB Wed Jul 17 15:09:50 2024 dpkg-divert
+.rwxr-xr-x root   root      18 KB Wed Jul 17 15:09:50 2024 dpkg-genbuildinfo
+.rwxr-xr-x root   root      18 KB Wed Jul 17 15:09:50 2024 dpkg-genchanges
+.rwxr-xr-x root   root      14 KB Wed Jul 17 15:09:50 2024 dpkg-gencontrol
+.rwxr-xr-x root   root      11 KB Wed Jul 17 15:09:50 2024 dpkg-gensymbols
+.rwxr-xr-x root   root      21 KB Wed Jul 17 15:09:50 2024 dpkg-maintscript-helper
+.rwxr-xr-x root   root     8.9 KB Wed Jul 17 15:09:50 2024 dpkg-mergechangelogs
+.rwxr-xr-x root   root     6.6 KB Wed Jul 17 15:09:50 2024 dpkg-name
+.rwxr-xr-x root   root     4.8 KB Wed Jul 17 15:09:50 2024 dpkg-parsechangelog
+.rwxr-xr-x root   root     135 KB Wed Jul 17 15:09:50 2024 dpkg-query
+.rwxr-xr-x root   root     4.1 KB Wed Jul 17 15:09:50 2024 dpkg-realpath
+.rwxr-xr-x root   root     8.5 KB Wed Jul 17 15:09:50 2024 dpkg-scanpackages
+.rwxr-xr-x root   root     9.1 KB Wed Jul 17 15:09:50 2024 dpkg-scansources
+.rwxr-xr-x root   root      32 KB Wed Jul 17 15:09:50 2024 dpkg-shlibdeps
+.rwxr-xr-x root   root      23 KB Wed Jul 17 15:09:50 2024 dpkg-source
+.rwxr-xr-x root   root      98 KB Wed Jul 17 15:09:50 2024 dpkg-split
+.rwxr-xr-x root   root      50 KB Wed Jul 17 15:09:50 2024 dpkg-statoverride
+.rwxr-xr-x root   root      42 KB Wed Jul 17 15:09:50 2024 dpkg-trigger
+.rwxr-xr-x root   root     3.2 KB Wed Jul 17 15:09:50 2024 dpkg-vendor
+.rwxr-xr-x root   root      98 KB Fri Apr  5 20:36:57 2024 du
+.rwxr-xr-x root   root     2.2 MB Mon Jun 23 10:02:02 2025 duf
+.rwxr-xr-x root   root     163 KB Sun Mar 31 15:02:08 2024 dumpkeys
+.rwxr-xr-x root   root    1007 B  Thu Jul  3 11:29:52 2025 dvipdf
+lrwxrwxrwx root   root      20 B  Mon Mar 10 19:52:52 2025 dwp ⇒ x86_64-linux-gnu-dwp
+.rwxr-xr-x root   root     2.7 KB Mon Apr  8 23:00:44 2024 eatmydata
+.rwxr-xr-x root   root     8.4 KB Fri Jun  3 16:51:54 2022 ec2metadata
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 echo
+.rwxr-xr-x root   root      59 KB Sat Feb 17 17:12:41 2024 ed
+lrwxrwxrwx root   root      24 B  Sun Mar 31 06:15:53 2024 editor ⇒ /etc/alternatives/editor
+.rwxr-xr-x root   root      41 B  Mon Apr  8 21:58:39 2024 egrep
+.rwxr-xr-x root   root      42 KB Thu Jun  5 18:17:38 2025 eject
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 elfedit ⇒ x86_64-linux-gnu-elfedit
+.rwxr-xr-x root   root      41 KB Fri Jul 25 23:26:40 2025 enc2xs
+.rwxr-xr-x root   root     3.0 KB Fri Jul 25 23:26:40 2025 encguess
+.rwxr-xr-x root   root      47 KB Fri Apr  5 20:36:57 2024 env
+.rwxr-xr-x root   root      34 KB Mon Apr  8 21:58:30 2024 envsubst
+.rwxr-xr-x root   root     639 B  Thu Jul  3 11:29:52 2025 eps2eps
+.rwxr-xr-x root   root     188 KB Sun Mar 31 14:54:31 2024 eqn
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 escp2topbm
+lrwxrwxrwx root   root      20 B  Sun Mar 31 06:15:53 2024 ex ⇒ /etc/alternatives/ex
+.rwxr-xr-x root   root     1.1 KB Mon Apr 22 15:45:35 2024 exifautotran
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 expand
+.rwxr-sr-x root   shadow    26 KB Thu May 30 20:52:35 2024 expiry
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 expr
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 eyuvtoppm
+.rwxr-xr-x root   root      62 KB Fri Apr  5 20:36:57 2024 factor
+.rwxr-xr-x root   root      23 KB Thu May 30 20:52:35 2024 faillog
+.rwxr-xr-x root   root      30 KB Sun Jan 21 22:56:06 2024 faked-sysv
+.rwxr-xr-x root   root      34 KB Sun Jan 21 22:56:06 2024 faked-tcp
+lrwxrwxrwx root   root      26 B  Sun Jan 21 22:56:06 2024 fakeroot ⇒ /etc/alternatives/fakeroot
+.rwxr-xr-x root   root     3.9 KB Sun Jan 21 22:56:06 2024 fakeroot-sysv
+.rwxr-xr-x root   root     3.9 KB Sun Jan 21 22:56:06 2024 fakeroot-tcp
+.rwxr-xr-x root   root      26 KB Thu Jun  5 18:17:38 2025 fallocate
+.rwxr-xr-x root   root      26 KB Fri Apr  5 20:36:57 2024 false
+.rwxr-xr-x root   root      22 KB Sun Mar 31 06:59:34 2024 fc-cache
+.rwxr-xr-x root   root      18 KB Sun Mar 31 06:59:34 2024 fc-cat
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-conflist
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-list
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-match
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-pattern
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-query
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-scan
+.rwxr-xr-x root   root      14 KB Sun Mar 31 06:59:34 2024 fc-validate
+lrwxrwxrwx root   root      19 B  Sun Dec 31 01:41:02 2023 fdfind ⇒ ../lib/cargo/bin/fd
+.rwxr-xr-x root   root     190 KB Thu Jun 27 01:22:35 2024 feh
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 fgconsole
+.rwxr-xr-x root   root      41 B  Mon Apr  8 21:58:39 2024 fgrep
+.rwxr-xr-x root   root      95 KB Sun Mar 31 14:09:47 2024 fiascotopnm
+lrwxrwxrwx root   root      24 B  Thu Apr 18 23:52:17 2024 figlet ⇒ /etc/alternatives/figlet
+lrwxrwxrwx root   root       6 B  Thu Apr 18 23:52:17 2024 figlet-toilet ⇒ toilet
+.rwxr-xr-x root   root      31 KB Sun Mar 31 13:35:22 2024 file
+.rwxr-xr-x root   root     200 KB Mon Apr  8 21:57:28 2024 find
+.rwxr-xr-x root   root      68 KB Thu Jun  5 18:17:38 2025 findmnt
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 fitstopnm
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 flock
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 fmt
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 fold
+.rwxr-xr-x root   root      38 KB Mon Apr  8 22:22:57 2024 fonttosfnt
+.rwxr-xr-x root   root      26 KB Thu Sep 26 14:44:05 2024 free
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 fstopgm
+lrwxrwxrwx root   root      21 B  Mon Apr  8 20:50:55 2024 ftp ⇒ /etc/alternatives/ftp
+.rwxr-xr-x root   root      26 KB Wed Oct  2 19:29:19 2024 funzip
+.rwxr-xr-x root   root      39 KB Sun Mar 31 23:02:29 2024 fuser
+lrwxrwxrwx root   root      11 B  Mon Apr  8 21:57:57 2024 fusermount ⇒ fusermount3
+.rwsr-xr-x root   root      38 KB Mon Apr  8 21:57:57 2024 fusermount3
+.rwxr-xr-x root   root     3.5 MB Mon Jun 23 11:09:03 2025 fzf
+.rwxr-xr-x root   root     6.9 KB Mon Jun 23 11:09:03 2025 fzf-tmux
+lrwxrwxrwx root   root       6 B  Wed Jan 31 19:09:40 2024 g++ ⇒ g++-13
+lrwxrwxrwx root   root      23 B  Wed Sep  4 20:44:14 2024 g++-13 ⇒ x86_64-linux-gnu-g++-13
+.rwxr-xr-x root   root      19 KB Sun Mar 31 14:09:47 2024 g3topbm
+.rwxr-xr-x root   root      22 KB Thu May 15 18:06:49 2025 gapplication
+.rwxr-xr-x root   root     722 KB Sun Mar 31 11:33:52 2024 gawk
+.rwxr-xr-x root   root     6.7 KB Sun Mar 31 11:33:52 2024 gawkbug
+lrwxrwxrwx root   root       6 B  Wed Jan 31 19:09:40 2024 gcc ⇒ gcc-13
+lrwxrwxrwx root   root      23 B  Wed Sep  4 20:44:14 2024 gcc-13 ⇒ x86_64-linux-gnu-gcc-13
+lrwxrwxrwx root   root       9 B  Wed Jan 31 19:09:40 2024 gcc-ar ⇒ gcc-ar-13
+lrwxrwxrwx root   root      26 B  Wed Sep  4 20:44:14 2024 gcc-ar-13 ⇒ x86_64-linux-gnu-gcc-ar-13
+lrwxrwxrwx root   root       9 B  Wed Jan 31 19:09:40 2024 gcc-nm ⇒ gcc-nm-13
+lrwxrwxrwx root   root      26 B  Wed Sep  4 20:44:14 2024 gcc-nm-13 ⇒ x86_64-linux-gnu-gcc-nm-13
+lrwxrwxrwx root   root      13 B  Wed Jan 31 19:09:40 2024 gcc-ranlib ⇒ gcc-ranlib-13
+lrwxrwxrwx root   root      30 B  Wed Sep  4 20:44:14 2024 gcc-ranlib-13 ⇒ x86_64-linux-gnu-gcc-ranlib-13
+lrwxrwxrwx root   root       7 B  Wed Jan 31 19:09:40 2024 gcov ⇒ gcov-13
+lrwxrwxrwx root   root      24 B  Wed Sep  4 20:44:14 2024 gcov-13 ⇒ x86_64-linux-gnu-gcov-13
+lrwxrwxrwx root   root      12 B  Wed Jan 31 19:09:40 2024 gcov-dump ⇒ gcov-dump-13
+lrwxrwxrwx root   root      29 B  Wed Sep  4 20:44:14 2024 gcov-dump-13 ⇒ x86_64-linux-gnu-gcov-dump-13
+lrwxrwxrwx root   root      12 B  Wed Jan 31 19:09:40 2024 gcov-tool ⇒ gcov-tool-13
+lrwxrwxrwx root   root      29 B  Wed Sep  4 20:44:14 2024 gcov-tool-13 ⇒ x86_64-linux-gnu-gcov-tool-13
+.rwxr-xr-x root   root      50 KB Thu May 15 18:06:49 2025 gdbus
+.rwxr-xr-x root   root      14 KB Fri Jun 27 19:12:04 2025 gdk-pixbuf-csource
+.rwxr-xr-x root   root      14 KB Fri Jun 27 19:12:04 2025 gdk-pixbuf-pixdata
+.rwxr-xr-x root   root      18 KB Fri Jun 27 19:12:04 2025 gdk-pixbuf-thumbnailer
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 gemtopbm ⇒ gemtopnm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 gemtopnm
+.rwxr-xr-x root   root      26 KB Wed Jul  9 22:47:47 2025 gencat
+lrwxrwxrwx root   root       3 B  Sun Mar 31 14:54:31 2024 geqn ⇒ eqn
+.rwxr-xr-x root   root      26 KB Wed Jul  9 22:47:47 2025 getconf
+.rwxr-xr-x root   root      39 KB Wed Jul  9 22:47:47 2025 getent
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 getkeycodes
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 getopt
+.rwxr-xr-x root   root      34 KB Mon Apr  8 21:58:30 2024 gettext
+.rwxr-xr-x root   root     5.1 KB Mon Apr  8 21:58:30 2024 gettext.sh
+lrwxrwxrwx root   root       2 B  Thu Jul  3 11:29:52 2025 ghostscript ⇒ gs
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 giftopnm
+lrwxrwxrwx root   root      12 B  Sun Mar 31 05:49:47 2024 ginstall-info ⇒ install-info
+.rwxr-xr-x root   root     102 KB Thu May 15 18:06:49 2025 gio
+lrwxrwxrwx root   root      49 B  Thu May 15 18:06:49 2025 gio-querymodules ⇒ ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+.rwxr-xr-x root   root     3.9 MB Thu Jul  3 02:23:42 2025 git
+lrwxrwxrwx root   root       3 B  Thu Jul  3 02:23:42 2025 git-receive-pack ⇒ git
+.rwxr-xr-x root   root     625 KB Thu Jul  3 02:23:42 2025 git-shell
+lrwxrwxrwx root   root       3 B  Thu Jul  3 02:23:42 2025 git-upload-archive ⇒ git
+lrwxrwxrwx root   root       3 B  Thu Jul  3 02:23:42 2025 git-upload-pack ⇒ git
+lrwxrwxrwx root   root      53 B  Thu May 15 18:06:49 2025 glib-compile-schemas ⇒ ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+lrwxrwxrwx root   root       4 B  Mon Apr  8 22:12:01 2024 gmake ⇒ make
+lrwxrwxrwx root   root      21 B  Mon Mar 10 19:52:52 2025 gold ⇒ x86_64-linux-gnu-gold
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 gouldtoppm
+lrwxrwxrwx root   root      27 B  Mon Mar 10 19:52:52 2025 gp-archive ⇒ x86_64-linux-gnu-gp-archive
+lrwxrwxrwx root   root      31 B  Mon Mar 10 19:52:52 2025 gp-collect-app ⇒ x86_64-linux-gnu-gp-collect-app
+lrwxrwxrwx root   root      32 B  Mon Mar 10 19:52:52 2025 gp-display-html ⇒ x86_64-linux-gnu-gp-display-html
+lrwxrwxrwx root   root      31 B  Mon Mar 10 19:52:52 2025 gp-display-src ⇒ x86_64-linux-gnu-gp-display-src
+lrwxrwxrwx root   root      32 B  Mon Mar 10 19:52:52 2025 gp-display-text ⇒ x86_64-linux-gnu-gp-display-text
+.rwsr-xr-x root   root      74 KB Thu May 30 20:52:35 2024 gpasswd
+.rwxr-xr-x root   root     1.1 MB Thu Jun 26 19:17:22 2025 gpg
+.rwxr-xr-x root   root     358 KB Thu Jun 26 19:17:22 2025 gpg-agent
+.rwxr-xr-x root   root      87 KB Thu Jun 26 19:17:22 2025 gpg-connect-agent
+.rwxr-xr-x root   root     139 KB Thu Jun 26 19:17:22 2025 gpg-wks-client
+.rwxr-xr-x root   root     115 KB Thu Jun 26 19:17:22 2025 gpgconf
+.rwxr-xr-x root   root      34 KB Thu Jun 26 19:17:22 2025 gpgparsemail
+.rwxr-xr-x root   root     501 KB Thu Jun 26 19:17:22 2025 gpgsm
+.rwxr-xr-x root   root      27 KB Thu Jun 26 19:17:22 2025 gpgsplit
+.rwxr-xr-x root   root      68 KB Thu Jun 26 19:17:22 2025 gpgtar
+.rwxr-xr-x root   root     303 KB Thu Jun 26 19:17:22 2025 gpgv
+lrwxrwxrwx root   root       3 B  Sun Mar 31 14:54:31 2024 gpic ⇒ pic
+lrwxrwxrwx root   root      22 B  Mon Mar 10 19:52:52 2025 gprof ⇒ x86_64-linux-gnu-gprof
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 gprofng ⇒ x86_64-linux-gnu-gprofng
+.rwxr-xr-x root   root     182 KB Mon Apr  8 21:58:39 2024 grep
+.rwxr-xr-x root   root      22 KB Thu May 15 18:06:49 2025 gresource
+.rwxr-xr-x root   root      94 KB Sun Mar 31 14:54:31 2024 groff
+.rwxr-xr-x root   root      19 KB Sun Mar 31 14:54:31 2024 grog
+.rwxr-xr-x root   root     163 KB Sun Mar 31 14:54:31 2024 grops
+.rwxr-xr-x root   root     118 KB Sun Mar 31 14:54:31 2024 grotty
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 groups
+.rwxr-xr-x root   root      29 KB Fri Jun  3 16:51:54 2022 growpart
+.rwxr-xr-x root   root      14 KB Thu Jul  3 11:29:52 2025 gs
+.rwxr-xr-x root   root     350 B  Thu Jul  3 11:29:52 2025 gsbj
+.rwxr-xr-x root   root     352 B  Thu Jul  3 11:29:52 2025 gsdj
+.rwxr-xr-x root   root     352 B  Thu Jul  3 11:29:52 2025 gsdj500
+.rwxr-xr-x root   root      30 KB Thu May 15 18:06:49 2025 gsettings
+.rwxr-xr-x root   root     353 B  Thu Jul  3 11:29:52 2025 gslj
+.rwxr-xr-x root   root     350 B  Thu Jul  3 11:29:52 2025 gslp
+.rwxr-xr-x root   root     277 B  Thu Jul  3 11:29:52 2025 gsnd
+lrwxrwxrwx root   root       3 B  Sun Mar 31 14:54:31 2024 gtbl ⇒ tbl
+.rwxr-xr-x root   root      35 KB Tue Jan 28 01:56:56 2025 gtk-builder-tool
+.rwxr-xr-x root   root      18 KB Tue Jan 28 01:56:56 2025 gtk-encode-symbolic-svg
+.rwxr-xr-x root   root      18 KB Tue Jan 28 01:56:56 2025 gtk-launch
+.rwxr-xr-x root   root      14 KB Tue Jan 28 01:56:56 2025 gtk-query-settings
+.rwxr-xr-x root   root      39 KB Tue Jan 28 01:56:56 2025 gtk-update-icon-cache
+.rwxr-xr-x root   root     2.3 KB Mon Jan 27 22:56:44 2025 gunzip
+.rwxr-xr-x root   root     6.3 KB Mon Jan 27 22:56:44 2025 gzexe
+.rwxr-xr-x root   root      91 KB Mon Jan 27 22:56:44 2025 gzip
+.rwxr-xr-x root   root      28 KB Fri Jul 25 23:26:40 2025 h2ph
+.rwxr-xr-x root   root      60 KB Fri Jul 25 23:26:40 2025 h2xs
+.rwxr-xr-x root   root      46 KB Thu Jun  5 18:17:38 2025 hardlink
+lrwxrwxrwx root   root       7 B  Thu Jun  5 18:17:38 2025 hd ⇒ hexdump
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 hdifftopam
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 head
+.rwxr-xr-x root   root     2.5 KB Tue Aug 27 10:05:12 2024 helpztags
+.rwxr-xr-x root   root      46 KB Thu Jun  5 18:17:38 2025 hexdump
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 hipstopgm
+.rwxr-xr-x root   root     119 KB Tue Jan 28 20:26:30 2025 host
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 hostid
+.rwxr-xr-x root   root      22 KB Mon Apr  8 21:59:01 2024 hostname
+.rwxr-xr-x root   root      30 KB Wed Jul  2 20:04:32 2025 hostnamectl
+.rwxr-xr-x root   root     798 B  Sun Mar 31 14:09:47 2024 hpcdtoppm
+.rwxr-xr-x root   root     370 KB Mon Apr  8 21:59:05 2024 htop
+.rwxr-xr-x root   root      11 KB Fri Apr 25 19:16:13 2025 hwe-support-status
+lrwxrwxrwx root   root       7 B  Thu Jun  5 18:17:38 2025 i386 ⇒ setarch
+lrwxrwxrwx root   root      12 B  Sun Mar 31 14:09:47 2024 icontopbm ⇒ sunicontopnm
+.rwxr-xr-x root   root      66 KB Wed Jul  9 22:47:47 2025 iconv
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 id
+lrwxrwxrwx root   root      26 B  Sun Mar 31 07:25:01 2024 identify ⇒ /etc/alternatives/identify
+lrwxrwxrwx root   root      30 B  Sun Mar 31 07:25:01 2024 identify-im6 ⇒ /etc/alternatives/identify-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 identify-im6.q16
+.rwxr-xr-x root   root      38 KB Sun Mar 31 14:09:47 2024 ilbmtoppm
+.rwxr-xr-x root   root     1.2 KB Sat Dec 30 20:16:29 2023 imagetops
+.rwxr-xr-x root   root      26 KB Thu Apr 18 23:49:39 2024 img2sixel
+.rwxr-xr-x root   root      19 KB Sun Mar 31 13:45:02 2024 img2txt
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 imgtoppm
+lrwxrwxrwx root   root      24 B  Sun Mar 31 07:25:01 2024 import ⇒ /etc/alternatives/import
+lrwxrwxrwx root   root      28 B  Sun Mar 31 07:25:01 2024 import-im6 ⇒ /etc/alternatives/import-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 import-im6.q16
+.rwxr-xr-x root   root     242 KB Sun Mar 31 05:49:47 2024 info
+lrwxrwxrwx root   root      29 B  Sun Mar 31 05:49:47 2024 infobrowser ⇒ /etc/alternatives/infobrowser
+.rwxr-xr-x root   root      66 KB Mon Apr  8 22:14:03 2024 infocmp
+lrwxrwxrwx root   root       3 B  Mon Apr  8 22:14:03 2024 infotocap ⇒ tic
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 infotopam
+.rwxr-xr-x root   root     142 KB Fri Apr  5 20:36:57 2024 install
+.rwxr-xr-x root   root      47 KB Sun Mar 31 05:49:47 2024 install-info
+.rwxr-xr-x root   root      15 KB Thu Dec 19 11:41:46 2013 install_compass
+.rwxr-xr-x root   root     4.3 KB Fri Jul 25 23:26:40 2025 instmodsh
+.rwxr-xr-x root   root      18 KB Thu Jun  5 18:17:38 2025 ionice
+.rwxr-xr-x root   root     755 KB Thu Jul 10 20:46:54 2025 ip
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 ipcmk
+.rwxr-xr-x root   root      18 KB Thu Jun  5 18:17:38 2025 ipcrm
+.rwxr-xr-x root   root      38 KB Thu Jun  5 18:17:38 2025 ipcs
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:47:33 2024 ischroot
+.rwxr-xr-x root   root     7.1 KB Thu Sep  7 14:57:00 2023 ispell-wrapper
+.rwxr-xr-x root   root      57 KB Sun Mar 31 14:09:47 2024 jbigtopnm
+.rwxr-xr-x root   root      50 KB Fri Apr  5 20:36:57 2024 join
+.rwxr-xr-x root   root      79 KB Wed Jul  2 20:04:32 2025 journalctl
+.rwxr-xr-x root   root      51 KB Mon Apr  1 12:05:57 2024 jp2a
+.rwxr-xr-x root   root     209 KB Sun Mar 31 14:09:47 2024 jpeg2ktopam
+.rwxr-xr-x root   root      14 KB Mon Apr 22 15:45:35 2024 jpegexiforient
+.rwxr-xr-x root   root      38 KB Sun Mar 31 14:09:47 2024 jpegtopnm
+.rwxr-xr-x root   root      46 KB Mon Apr 22 15:45:35 2024 jpegtran
+.rwxr-xr-x root   root    1004 B  Mon Aug 21 19:10:58 2023 json-patch-jsondiff
+.rwxr-xr-x root   root     4.9 KB Fri Jul 25 23:26:40 2025 json_pp
+lrwxrwxrwx root   root      26 B  Mon Aug 21 19:10:58 2023 jsondiff ⇒ /etc/alternatives/jsondiff
+.rwxr-xr-x root   root     3.8 KB Mon Aug 21 19:10:58 2023 jsonpatch
+.rwxr-xr-x root   root     1.8 KB Fri Jan 24 09:25:15 2020 jsonpointer
+.rwxr-xr-x root   root     213 B  Tue Aug 15 03:45:04 2023 jsonschema
+.rwxr-xr-x root   root      26 KB Sun Mar 31 13:40:47 2024 JxrDecApp
+.rwxr-xr-x root   root      28 KB Sun Mar 31 13:40:47 2024 JxrEncApp
+.rwxr-xr-x root   root      15 KB Sun Mar 31 15:02:08 2024 kbd_mode
+.rwxr-xr-x root   root      18 KB Sun Mar 31 15:02:08 2024 kbdinfo
+.rwxr-xr-x root   root      63 KB Thu Jun 26 19:17:22 2025 kbxutil
+lrwxrwxrwx root   root       7 B  Fri Jul 29 20:56:54 2022 keep-one-running ⇒ run-one
+.rwxr-xr-x root   root      55 KB Wed Jul  2 20:04:32 2025 kernel-install
+.rwxr-xr-x root   root      22 KB Thu Sep 26 14:44:05 2024 kill
+.rwxr-xr-x root   root      31 KB Sun Mar 31 23:02:29 2024 killall
+.rwxr-xr-x root   root     170 KB Wed Oct  2 18:40:49 2024 kmod
+.rwxr-xr-x root   root     214 B  Wed Oct 16 05:50:11 2024 landscape-broker
+.rwxr-xr-x root   root     529 B  Wed Oct 16 05:50:11 2024 landscape-client
+.rwxr-xr-x root   root     330 B  Wed Oct 16 05:50:11 2024 landscape-config
+.rwxr-xr-x root   root     215 B  Wed Oct 16 05:50:11 2024 landscape-manager
+.rwxr-xr-x root   root     215 B  Wed Oct 16 05:50:11 2024 landscape-monitor
+.rwxr-xr-x root   root     253 B  Wed Oct 16 05:50:11 2024 landscape-package-changer
+.rwxr-xr-x root   root     254 B  Wed Oct 16 05:50:11 2024 landscape-package-reporter
+.rwxr-xr-x root   root     261 B  Wed Oct 16 05:50:11 2024 landscape-release-upgrader
+.rwxr-xr-x root   root     646 B  Wed Oct 16 05:50:11 2024 landscape-sysinfo
+.rwxr-xr-x root   root      34 KB Thu Jun  5 18:17:38 2025 last
+lrwxrwxrwx root   root       4 B  Thu Jun  5 18:17:38 2025 lastb ⇒ last
+.rwxr-xr-x root   root      28 KB Thu May 30 20:52:35 2024 lastlog
+.rwxr-xr-x root   root     7.6 KB Fri Jan 27 19:29:51 2023 lcf
+lrwxrwxrwx root   root      19 B  Mon Mar 10 19:52:52 2025 ld ⇒ x86_64-linux-gnu-ld
+lrwxrwxrwx root   root      23 B  Mon Mar 10 19:52:52 2025 ld.bfd ⇒ x86_64-linux-gnu-ld.bfd
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 ld.gold ⇒ x86_64-linux-gnu-ld.gold
+lrwxrwxrwx root   root      29 B  Wed Jul  9 22:47:47 2025 ld.so ⇒ ../lib64/ld-linux-x86-64.so.2
+.rwxr-xr-x root   root     5.3 KB Wed Jul  9 22:47:47 2025 ldd
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 leaftoppm
+.rwxr-xr-x root   root     190 KB Sun Apr 28 17:44:40 2024 less
+.rwxr-xr-x root   root      14 KB Sun Apr 28 17:44:40 2024 lessecho
+lrwxrwxrwx root   root       8 B  Sun Apr 28 17:44:40 2024 lessfile ⇒ lesspipe
+.rwxr-xr-x root   root      24 KB Sun Apr 28 17:44:40 2024 lesskey
+.rwxr-xr-x root   root     8.8 KB Sun Feb 12 16:17:35 2023 lesspipe
+.rwxr-xr-x root   root     100 KB Mon Apr  8 20:45:49 2024 lexgrog
+lrwxrwxrwx root   root      21 B  Mon Dec 25 13:29:19 2023 lft ⇒ /etc/alternatives/lft
+.rwxr-xr-x root   root     2.4 KB Mon Dec 25 13:29:19 2023 lft.db
+.rwxr-xr-x root   root      15 KB Fri Jul 25 23:26:40 2025 libnetcfg
+.rwxr-xr-x root   root     1.8 KB Thu Apr 18 23:49:39 2024 libsixel-config
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 link
+lrwxrwxrwx root   root       7 B  Thu Jun  5 18:17:38 2025 linux32 ⇒ setarch
+lrwxrwxrwx root   root       7 B  Thu Jun  5 18:17:38 2025 linux64 ⇒ setarch
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 lispmtopgm
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 ln
+.rwxr-xr-x root   root      23 KB Thu Jul 10 20:46:54 2025 lnstat
+.rwxr-xr-x root   root     203 KB Sun Mar 31 15:02:08 2024 loadkeys
+.rwxr-xr-x root   root      34 KB Sun Mar 31 15:02:08 2024 loadunimap
+.rwxr-xr-x root   root      50 KB Wed Jul  9 22:47:47 2025 locale
+.rwxr-xr-x root   root      14 KB Fri Aug  1 20:21:11 2025 locale-check
+.rwxr-xr-x root   root      26 KB Wed Jul  2 20:04:32 2025 localectl
+.rwxr-xr-x root   root     319 KB Wed Jul  9 22:47:47 2025 localedef
+.rwxr-xr-x root   root      39 KB Thu Jun  5 18:17:38 2025 logger
+.rwxr-xr-x root   root      52 KB Thu May 30 20:52:35 2024 login
+.rwxr-xr-x root   root      67 KB Wed Jul  2 20:04:32 2025 loginctl
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 logname
+.rwxr-xr-x root   root      18 KB Thu Jun  5 18:17:38 2025 look
+.rwxr-xr-x root   root     139 KB Fri Apr  5 20:36:57 2024 ls
+.rwxr-xr-x root   root      14 KB Mon Apr 29 05:44:46 2024 lsattr
+.rwxr-xr-x root   root     2.6 KB Wed Jul  5 21:34:50 2023 lsb_release
+.rwxr-xr-x root   root     146 KB Thu Jun  5 18:17:38 2025 lsblk
+.rwxr-xr-x root   root     110 KB Thu Jun  5 18:17:38 2025 lscpu
+.rwxr-xr-x root   root     3.5 MB Tue Aug 20 22:35:14 2024 lsd
+.rwxr-xr-x root   root     957 KB Sun Mar 31 15:13:00 2024 lshw
+.rwxr-xr-x root   root      50 KB Thu Jun  5 18:17:38 2025 lsipc
+.rwxr-xr-x root   root      31 KB Thu Jun  5 18:17:38 2025 lslocks
+.rwxr-xr-x root   root      50 KB Thu Jun  5 18:17:38 2025 lslogins
+.rwxr-xr-x root   root      38 KB Thu Jun  5 18:17:38 2025 lsmem
+lrwxrwxrwx root   root       4 B  Wed Oct  2 18:40:49 2024 lsmod ⇒ kmod
+.rwxr-xr-x root   root      42 KB Thu Jun  5 18:17:38 2025 lsns
+.rwxr-xr-x root   root     172 KB Sun Mar 31 15:13:07 2024 lsof
+.rwxr-xr-x root   root     100 KB Mon Apr  8 22:15:21 2024 lspci
+.rwxr-xr-x root   root     1.1 KB Tue Apr  4 14:28:39 2023 lspgpot
+lrwxrwxrwx root   root      11 B  Wed Jan 31 19:09:40 2024 lto-dump ⇒ lto-dump-13
+lrwxrwxrwx root   root      28 B  Wed Sep  4 20:44:14 2024 lto-dump-13 ⇒ x86_64-linux-gnu-lto-dump-13
+lrwxrwxrwx root   root      23 B  Fri Aug  9 08:33:21 2024 lzcat ⇒ /etc/alternatives/lzcat
+lrwxrwxrwx root   root      23 B  Fri Aug  9 08:33:21 2024 lzcmp ⇒ /etc/alternatives/lzcmp
+lrwxrwxrwx root   root      24 B  Fri Aug  9 08:33:21 2024 lzdiff ⇒ /etc/alternatives/lzdiff
+lrwxrwxrwx root   root      25 B  Fri Aug  9 08:33:21 2024 lzegrep ⇒ /etc/alternatives/lzegrep
+lrwxrwxrwx root   root      25 B  Fri Aug  9 08:33:21 2024 lzfgrep ⇒ /etc/alternatives/lzfgrep
+lrwxrwxrwx root   root      24 B  Fri Aug  9 08:33:21 2024 lzgrep ⇒ /etc/alternatives/lzgrep
+lrwxrwxrwx root   root      24 B  Fri Aug  9 08:33:21 2024 lzless ⇒ /etc/alternatives/lzless
+lrwxrwxrwx root   root      22 B  Fri Aug  9 08:33:21 2024 lzma ⇒ /etc/alternatives/lzma
+.rwxr-xr-x root   root      14 KB Tue Apr  1 00:22:22 2025 lzmainfo
+lrwxrwxrwx root   root      24 B  Fri Aug  9 08:33:21 2024 lzmore ⇒ /etc/alternatives/lzmore
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 macptopbm
+.rwxr-xr-x root   root     227 B  Tue Aug 27 16:30:39 2024 mailmail3
+.rwxr-xr-x root   root     254 KB Mon Apr  8 22:12:01 2024 make
+.rwxr-xr-x root   root     4.8 KB Mon Apr  8 22:12:01 2024 make-first-existing-target
+.rwxr-xr-x root   root     125 KB Mon Apr  8 20:45:49 2024 man
+.rwxr-xr-x root   root      35 KB Mon Apr  8 20:45:49 2024 man-recode
+.rwxr-xr-x root   root     144 KB Mon Apr  8 20:45:49 2024 mandb
+.rwxr-xr-x root   root     1.9 KB Sat Feb 10 23:03:36 2024 manifest
+.rwxr-xr-x root   root      27 KB Mon Apr  8 20:45:49 2024 manpath
+.rwxr-xr-x root   root      30 KB Sun Mar 31 15:02:08 2024 mapscrn
+.rwxr-xr-x root   root     220 B  Mon Jun 19 19:24:55 2023 markdown-it
+.rwxr-xr-x root   root     167 KB Mon Apr  8 22:12:02 2024 mawk
+.rwxr-xr-x root   root      26 KB Thu Jun  5 18:17:38 2025 mcookie
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 md5sum
+lrwxrwxrwx root   root       6 B  Fri Apr  5 20:36:57 2024 md5sum.textutils ⇒ md5sum
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 mdatopbm
+.rwxr-xr-x root   root      50 KB Tue Jan 28 20:26:30 2025 mdig
+.rwxr-xr-x root   root     7.3 KB Wed Jul  9 22:47:47 2025 memusage
+.rwxr-xr-x root   root      22 KB Wed Jul  9 22:47:47 2025 memusagestat
+.rwxr-xr-x root   root     5.6 KB Fri May 23 21:16:49 2025 mesa-overlay-control.py
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 mesg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 mgrtopbm
+.rwxr-xr-x root   root     3.0 KB Fri Mar  1 14:25:55 2024 migrate-pubring-from-classic-gpg
+.rwxr-xr-x root   root      16 KB Sun Mar 31 15:02:08 2024 mk_modmap
+.rwxr-xr-x root   root      74 KB Fri Apr  5 20:36:57 2024 mkdir
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 mkfifo
+.rwxr-xr-x root   root      65 B  Mon Apr  8 22:22:57 2024 mkfontdir
+.rwxr-xr-x root   root      43 KB Mon Apr  8 22:22:57 2024 mkfontscale
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 mknod
+.rwxr-xr-x root   root      26 KB Tue Apr  2 00:14:41 2024 mkpasswd
+.rwxr-xr-x root   root     287 KB Mon Apr  8 22:20:03 2024 mksquashfs
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 mktemp
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 mogrify ⇒ /etc/alternatives/mogrify
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 mogrify-im6 ⇒ /etc/alternatives/mogrify-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 mogrify-im6.q16
+.rwxr-xr-x root   root     209 MB Thu Dec 19 11:41:46 2013 mongod
+.rwxr-xr-x mahmud mahmud    18 MB Wed Jun  4 23:19:59 2025 mongodump
+.rwxr-xr-x mahmud mahmud    17 MB Wed Jun  4 23:20:05 2025 mongoexport
+.rwxr-xr-x mahmud mahmud    17 MB Wed Jun  4 23:20:10 2025 mongofiles
+.rwxr-xr-x mahmud mahmud    18 MB Wed Jun  4 23:20:03 2025 mongoimport
+.rwxr-xr-x mahmud mahmud    18 MB Wed Jun  4 23:20:01 2025 mongorestore
+.rwxr-xr-x root   root     162 MB Thu Dec 19 11:41:46 2013 mongos
+.rwxr-xr-x root   root     159 MB Thu Jul 17 21:11:47 2025 mongosh
+.rwxr-xr-x mahmud mahmud    17 MB Wed Jun  4 23:20:07 2025 mongostat
+.rwxr-xr-x mahmud mahmud    17 MB Wed Jun  4 23:20:09 2025 mongotop
+lrwxrwxrwx root   root      25 B  Sun Mar 31 07:25:01 2024 montage ⇒ /etc/alternatives/montage
+lrwxrwxrwx root   root      29 B  Sun Mar 31 07:25:01 2024 montage-im6 ⇒ /etc/alternatives/montage-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 montage-im6.q16
+.rwxr-xr-x root   root      46 KB Thu Jun  5 18:17:38 2025 more
+.rwsr-xr-x root   root      50 KB Thu Jun  5 18:17:38 2025 mount
+.rwxr-xr-x root   root      18 KB Thu Jun  5 18:17:38 2025 mountpoint
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 mrftopbm
+.rwxr-xr-x root   root     110 KB Mon Oct  7 08:35:31 2024 mtr
+.rwxr-xr-x root   root      34 KB Mon Oct  7 08:35:31 2024 mtr-packet
+.rwxr-xr-x root   root     6.4 KB Wed Jul  9 22:47:47 2025 mtrace
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 mtvtoppm
+.rwxr-xr-x root   root     134 KB Fri Apr  5 20:36:57 2024 mv
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 namei
+.rwxr-xr-x root   root     272 KB Thu Oct 10 22:14:07 2024 nano
+lrwxrwxrwx root   root      22 B  Mon Apr  8 22:12:02 2024 nawk ⇒ /etc/alternatives/nawk
+lrwxrwxrwx root   root      20 B  Mon Apr  8 22:14:20 2024 nc ⇒ /etc/alternatives/nc
+.rwxr-xr-x root   root      39 KB Mon Apr  8 22:14:20 2024 nc.openbsd
+.rwxr-xr-x root   root      37 KB Mon Feb 20 15:19:03 2023 ncal
+.rwxr-xr-x root   root     334 KB Mon Apr 18 14:27:53 2022 neofetch
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 neotoppm
+.rwxr-xr-x root   root     913 B  Sun Mar 31 14:54:31 2024 neqn
+lrwxrwxrwx root   root      24 B  Mon Apr  8 22:14:20 2024 netcat ⇒ /etc/alternatives/netcat
+.rwxr-xr-x root   root     123 KB Wed Jul  2 20:04:32 2025 networkctl
+.rwxr-xr-x root   root      20 KB Mon Apr 24 21:32:27 2023 networkd-dispatcher
+.rwsr-xr-x root   root      40 KB Thu May 30 20:52:35 2024 newgrp
+lrwxrwxrwx root   root       4 B  Sat Feb 10 23:03:36 2024 NF ⇒ col1
+.rwxr-xr-x root   root      34 KB Mon Apr  8 21:58:30 2024 ngettext
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 nice
+lrwxrwxrwx root   root       8 B  Mon Apr  8 21:59:01 2024 nisdomainname ⇒ hostname
+.rwxr-xr-x root   root      39 KB Fri Apr  5 20:36:57 2024 nl
+lrwxrwxrwx root   root      19 B  Mon Mar 10 19:52:52 2025 nm ⇒ x86_64-linux-gnu-nm
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 nohup
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 nproc
+.rwxr-xr-x root   root     5.6 KB Sun Mar 31 14:54:31 2024 nroff
+.rwxr-xr-x root   root      31 KB Thu Jun  5 18:17:38 2025 nsenter
+.rwxr-xr-x root   root     123 KB Tue Jan 28 20:26:30 2025 nslookup
+.rwxr-xr-x root   root      30 KB Thu Jul 10 20:46:54 2025 nstat
+.rwxr-xr-x root   root      75 KB Tue Jan 28 20:26:30 2025 nsupdate
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 numfmt
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 objcopy ⇒ x86_64-linux-gnu-objcopy
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 objdump ⇒ x86_64-linux-gnu-objdump
+.rwxr-xr-x root   root      70 KB Fri Apr  5 20:36:57 2024 od
+.rwxr-xr-x root   root     8.3 KB Tue Jul  8 20:50:50 2025 oem-getlogs
+.rwxr-xr-x root   root     982 KB Wed Feb  5 19:17:43 2025 openssl
+.rwxr-xr-x root   root      23 KB Sun Mar 31 15:02:08 2024 openvt
+lrwxrwxrwx root   root      23 B  Tue Apr  9 20:02:37 2024 pager ⇒ /etc/alternatives/pager
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 palmtopnm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamaddnoise
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamaltsat
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pamarith
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pambackground
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pambayer
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pambrighten
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pamcat
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamchannel
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamcomp
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamcrater
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamcut
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamdeinterlace
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamdepth
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamdice
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pamditherbw
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamedge
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamendian
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamenlarge
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamexec
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamfile
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamfind
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamfix
+.rwxr-xr-x root   root     2.0 KB Sun Mar 31 14:09:47 2024 pamfixtrunc
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pamflip
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamfunc
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamgauss
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamgetcolor
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamgradient
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamhomography
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamhue
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamlevels
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamlookup
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pammasksharpen
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pammixinterlace
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pammixmulti
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pammosaicknit
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamoil
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pampaintspill
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:09:47 2024 pamperspective
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pampick
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pampop9
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamrecolor
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamrestack
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pamrgbatopng ⇒ pamtopng
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pamrubber
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pamscale
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamseq
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamshadedrelief
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsharpmap
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsharpness
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamshuffle
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsistoaglyph
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamslice
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsplit
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamstack
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:09:47 2024 pamstereogram
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamstretch
+.rwxr-xr-x root   root     3.8 KB Sun Mar 31 14:09:47 2024 pamstretch-gen
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsumm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamsummcol
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtable
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamthreshold
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtilt
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtoavs
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtodjvurle
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtofits
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pamtogif
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtohdiff
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtohtmltbl
+.rwxr-xr-x root   root     213 KB Sun Mar 31 14:09:47 2024 pamtojpeg2k
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtompfont
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtooctaveimg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtopam
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtopdbimg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtopfm
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pamtopng
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtopnm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtoqoi
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtosrf
+.rwxr-xr-x root   root      70 KB Sun Mar 31 14:09:47 2024 pamtosvg
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtotga
+.rwxr-xr-x root   root      46 KB Sun Mar 31 14:09:47 2024 pamtotiff
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtouil
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamtowinicon
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamtoxvmini
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pamtris
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pamundice
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamunlookup
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamvalidate
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pamwipeout
+.rwxr-xr-x root   root      42 KB Sun Mar 31 14:09:47 2024 pamx
+.rwxr-xr-x root   root      14 KB Mon Apr  8 22:06:21 2024 paperconf
+.rwxr-xr-x root   root      62 KB Thu Jun  5 18:17:38 2025 partx
+.rwsr-xr-x root   root      63 KB Thu May 30 20:52:35 2024 passwd
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 paste
+.rwxr-xr-x root   root      16 KB Tue Nov 15 03:33:28 2022 pastebinit
+.rwxr-xr-x root   root     182 KB Mon Apr  8 22:15:08 2024 patch
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 pathchk
+lrwxrwxrwx root   root       5 B  Tue Nov 15 03:33:59 2022 pbget ⇒ pbput
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pbmclean
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmlife
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmmake
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmmask
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmminkowski
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmnoise
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmpage
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmpscale
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmreduce
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:09:47 2024 pbmtext
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pbmtextps
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmto10x
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmto4425
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoascii
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoatk
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtobbnbg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtocis
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtocmuwm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtodjvurle
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoepsi
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoepson
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoescp2
+.rwxr-xr-x root   root      19 KB Sun Mar 31 14:09:47 2024 pbmtog3
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtogem
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtogo
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoibm23xx
+lrwxrwxrwx root   root      12 B  Sun Mar 31 14:09:47 2024 pbmtoicon ⇒ pbmtosunicon
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pbmtolj
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoln03
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtolps
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtomacp
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtomatrixorbital
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtomda
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtomgr
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtomrf
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtonokia
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtopgm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtopi3
+.rwxr-xr-x root   root      27 KB Sun Mar 31 14:09:47 2024 pbmtopk
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoplot
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:09:47 2024 pbmtoppa
+.rwxr-xr-x root   root      16 KB Sun Mar 31 14:09:47 2024 pbmtopsg3
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoptx
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtosunicon
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtowbmp
+.rwxr-xr-x root   root     2.8 KB Sun Mar 31 14:09:47 2024 pbmtox10bm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoxbm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtoybm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pbmtozinc
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pbmupc
+.rwxr-xr-x root   root     2.5 KB Tue Nov 15 03:33:28 2022 pbput
+lrwxrwxrwx root   root       5 B  Tue Nov 15 03:33:59 2022 pbputs ⇒ pbput
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pc1toppm
+lrwxrwxrwx root   root      10 B  Sun Mar 31 14:09:47 2024 pcdindex ⇒ pcdovtoppm
+.rwxr-xr-x root   root     6.6 KB Sun Mar 31 14:09:47 2024 pcdovtoppm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pcxtoppm
+lrwxrwxrwx root   root       7 B  Wed Aug  7 23:44:52 2024 pdb3 ⇒ pdb3.12
+lrwxrwxrwx root   root      24 B  Wed Jun 18 23:59:45 2025 pdb3.12 ⇒ ../lib/python3.12/pdb.py
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pdbimgtopam
+.rwxr-xr-x root   root     698 B  Thu Jul  3 11:29:52 2025 pdf2dsc
+.rwxr-xr-x root   root     909 B  Thu Jul  3 11:29:52 2025 pdf2ps
+.rwxr-xr-x root   root      14 KB Sun Mar 31 23:02:29 2024 peekfd
+.rwxr-xr-x root   root     3.8 MB Fri Jul 25 23:26:40 2025 perl
+.rwxr-xr-x root   root      14 KB Fri Jul 25 23:26:40 2025 perl5.38-x86_64-linux-gnu
+.rwxr-xr-x root   root     3.8 MB Fri Jul 25 23:26:40 2025 perl5.38.2
+.rwxr-xr-x root   root      44 KB Fri Jul 25 23:26:40 2025 perlbug
+.rwxr-xr-x root   root     125 B  Sat Apr  6 01:56:49 2024 perldoc
+.rwxr-xr-x root   root      11 KB Fri Jul 25 23:26:40 2025 perlivp
+.rwxr-xr-x root   root      44 KB Fri Jul 25 23:26:40 2025 perlthanks
+.rwxr-xr-x root   root     498 B  Thu Jul  3 11:29:52 2025 pf2afm
+.rwxr-xr-x root   root     516 B  Thu Jul  3 11:29:52 2025 pfbtopfa
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pfmtopam
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pgmabel
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmbentley
+.rwxr-xr-x root   root     3.5 KB Sun Mar 31 14:09:47 2024 pgmcrater
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmdeshadow
+lrwxrwxrwx root   root       7 B  Sun Mar 31 14:09:47 2024 pgmedge ⇒ pamedge
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmenhance
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pgmhist
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmkernel
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmmake
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pgmmedian
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmminkowski
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmmorphconv
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmnoise
+lrwxrwxrwx root   root       7 B  Sun Mar 31 14:09:47 2024 pgmnorm ⇒ pnmnorm
+lrwxrwxrwx root   root       6 B  Sun Mar 31 14:09:47 2024 pgmoil ⇒ pamoil
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmramp
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pgmslice ⇒ pamslice
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pgmtexture
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtofs
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtolispm
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pgmtopbm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtopgm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtoppm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtosbig
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pgmtost4
+.rwxr-xr-x root   root      34 KB Thu Sep 26 14:44:05 2024 pgrep
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pi1toppm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pi3topbm
+.rwxr-xr-x root   root     196 KB Sun Mar 31 14:54:31 2024 pic
+lrwxrwxrwx root   root      22 B  Thu Oct 10 22:14:07 2024 pico ⇒ /etc/alternatives/pico
+.rwxr-xr-x root   root     8.2 KB Fri Jul 25 23:26:40 2025 piconv
+lrwxrwxrwx root   root      16 B  Mon Apr  8 22:20:36 2024 pidof ⇒ ../sbin/killall5
+.rwxr-xr-x root   root      34 KB Thu Sep 26 14:44:05 2024 pidwait
+lrwxrwxrwx root   root      26 B  Sun Mar 31 22:59:39 2024 pinentry ⇒ /etc/alternatives/pinentry
+.rwxr-xr-x root   root      59 KB Sun Mar 31 22:59:39 2024 pinentry-curses
+.rwxr-xr-x root   root      88 KB Thu Jul 24 17:51:16 2025 ping
+lrwxrwxrwx root   root       4 B  Thu Jul 24 17:51:16 2025 ping4 ⇒ ping
+lrwxrwxrwx root   root       4 B  Thu Jul 24 17:51:16 2025 ping6 ⇒ ping
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 pinky
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pjtoppm
+.rwxr-xr-x root   root      18 KB Mon Dec  2 17:59:52 2024 pkaction
+.rwxr-xr-x root   root      22 KB Mon Dec  2 17:59:52 2024 pkcheck
+.rwxr-xr-x root   root      54 KB Wed Jan  8 22:35:09 2025 pkcon
+lrwxrwxrwx root   root       5 B  Thu Sep 26 14:44:05 2024 pkill ⇒ pgrep
+.rwxr-xr-x root   root      22 KB Wed Jan  8 22:35:09 2025 pkmon
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pktopbm
+.rwxr-xr-x root   root      22 KB Mon Dec  2 17:59:52 2024 pkttyagent
+.rwxr-xr-x root   root     4.4 KB Fri Jul 25 23:26:40 2025 pl2pm
+.rwxr-xr-x root   root      22 KB Wed Jul  9 22:47:47 2025 pldd
+.rwxr-xr-x root   root      34 KB Thu Sep 26 14:44:05 2024 pmap
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pngtopam
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pngtopnm ⇒ pngtopam
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmalias
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pnmarith ⇒ pamarith
+lrwxrwxrwx root   root       6 B  Sun Mar 31 14:09:47 2024 pnmcat ⇒ pamcat
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmcolormap
+lrwxrwxrwx root   root       7 B  Sun Mar 31 14:09:47 2024 pnmcomp ⇒ pamcomp
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pnmconvol
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pnmcrop
+lrwxrwxrwx root   root       6 B  Sun Mar 31 14:09:47 2024 pnmcut ⇒ pamcut
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pnmdepth ⇒ pamdepth
+lrwxrwxrwx root   root      10 B  Sun Mar 31 14:09:47 2024 pnmenlarge ⇒ pamenlarge
+lrwxrwxrwx root   root       7 B  Sun Mar 31 14:09:47 2024 pnmfile ⇒ pamfile
+.rwxr-xr-x root   root     3.6 KB Sun Mar 31 14:09:47 2024 pnmflip
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmgamma
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmhisteq
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmhistmap
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmindex
+lrwxrwxrwx root   root      10 B  Sun Mar 31 14:09:47 2024 pnminterp ⇒ pamstretch
+lrwxrwxrwx root   root      14 B  Sun Mar 31 14:09:47 2024 pnminterp-gen ⇒ pamstretch-gen
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnminvert
+.rwxr-xr-x root   root     2.4 KB Sun Mar 31 14:09:47 2024 pnmmargin
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmmercator
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmmontage
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pnmnlfilt
+lrwxrwxrwx root   root      13 B  Sun Mar 31 14:09:47 2024 pnmnoraw ⇒ pnmtoplainpnm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmnorm
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pnmpad
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmpaste
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmpsnr
+.rwxr-xr-x root   root      11 KB Sun Mar 31 14:09:47 2024 pnmquant
+.rwxr-xr-x root   root     6.8 KB Sun Mar 31 14:09:47 2024 pnmquantall
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmremap
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmrotate
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pnmscale ⇒ pamscale
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmscalefixed
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmshear
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmsmooth
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pnmsplit ⇒ pamsplit
+.rwxr-xr-x root   root      35 KB Sun Mar 31 14:09:47 2024 pnmstitch
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmtile
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmtoddif
+.rwxr-xr-x root   root     164 KB Sun Mar 31 14:09:47 2024 pnmtofiasco
+lrwxrwxrwx root   root       9 B  Sun Mar 31 14:09:47 2024 pnmtofits ⇒ pamtofits
+.rwxr-xr-x root   root      61 KB Sun Mar 31 14:09:47 2024 pnmtojbig
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pnmtojpeg
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 pnmtopalm
+.rwxr-xr-x root   root      23 KB Sun Mar 31 14:09:47 2024 pnmtopclxl
+.rwxr-xr-x root   root      31 B  Sun Mar 31 14:09:47 2024 pnmtoplainpnm
+.rwxr-xr-x root   root      54 KB Sun Mar 31 14:09:47 2024 pnmtopng
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 pnmtopnm ⇒ pamtopnm
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pnmtops
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmtorast
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:09:47 2024 pnmtorle
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmtosgi
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 pnmtosir
+lrwxrwxrwx root   root       9 B  Sun Mar 31 14:09:47 2024 pnmtotiff ⇒ pamtotiff
+.rwxr-xr-x root   root      38 KB Sun Mar 31 14:09:47 2024 pnmtotiffcmyk
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 pnmtoxwd
+.rwxr-xr-x root   root     3.9 KB Fri Jul 25 23:26:40 2025 pod2html
+.rwxr-xr-x root   root      18 KB Fri Jul 25 23:26:40 2025 pod2man
+.rwxr-xr-x root   root      13 KB Fri Jul 25 23:26:40 2025 pod2text
+.rwxr-xr-x root   root     4.0 KB Fri Jul 25 23:26:40 2025 pod2usage
+.rwxr-xr-x root   root     3.6 KB Fri Jul 25 23:26:40 2025 podchecker
+.rwxr-xr-x root   root     404 B  Thu Jul  3 11:29:52 2025 pphs
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppm3d
+.rwxr-xr-x root   root     2.0 KB Sun Mar 31 14:09:47 2024 ppmbrighten
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmchange
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 ppmcie
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmcolormask
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmcolors
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmdcfont
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmddumpfont
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmdim
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmdist
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmdither
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 ppmdmkfont
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 ppmdraw
+.rwxr-xr-x root   root      15 KB Sun Mar 31 14:09:47 2024 ppmfade
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmflash
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 ppmforge
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmglobe
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmhist
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmlabel
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmmake
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmmix
+lrwxrwxrwx root   root       7 B  Sun Mar 31 14:09:47 2024 ppmnorm ⇒ pnmnorm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmntsc
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:09:47 2024 ppmpat
+.rwxr-xr-x root   root     2.3 KB Sun Mar 31 14:09:47 2024 ppmquant
+lrwxrwxrwx root   root      11 B  Sun Mar 31 14:09:47 2024 ppmquantall ⇒ pnmquantall
+.rwxr-xr-x root   root     3.5 KB Sun Mar 31 14:09:47 2024 ppmrainbow
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmrelief
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmrough
+.rwxr-xr-x root   root      11 KB Sun Mar 31 14:09:47 2024 ppmshadow
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmshift
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmspread
+.rwxr-xr-x root   root      19 KB Sun Mar 31 14:09:47 2024 ppmtoacad
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoapplevol
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtoarbtxt
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoascii
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtobmp
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtoeyuv
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtogif
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoicr
+.rwxr-xr-x root   root      42 KB Sun Mar 31 14:09:47 2024 ppmtoilbm
+lrwxrwxrwx root   root       9 B  Sun Mar 31 14:09:47 2024 ppmtojpeg ⇒ pnmtojpeg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoleaf
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtolj
+.rwxr-xr-x root   root      82 B  Sun Mar 31 14:09:47 2024 ppmtomap
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 ppmtomitsu
+.rwxr-xr-x root   root     494 KB Sun Mar 31 14:09:47 2024 ppmtompeg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoneo
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtopcx
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtopgm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtopi1
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtopict
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtopj
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtopjxl
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoppm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtopuzz
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtorgb3
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtosixel
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtospu
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoterm
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 ppmtotga ⇒ pamtotga
+lrwxrwxrwx root   root       8 B  Sun Mar 31 14:09:47 2024 ppmtouil ⇒ pamtouil
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtowinicon
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 ppmtoxpm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoyuv
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtoyuvsplit
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmtv
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ppmwheel
+.rwxr-xr-x root   root      71 KB Fri Apr  5 20:36:57 2024 pr
+.rwxr-xr-x root   root     5.5 KB Mon Apr  8 21:54:10 2024 precat
+.rwxr-xr-x root   root      58 KB Sun Mar 31 14:54:31 2024 preconv
+.rwxr-xr-x root   root     5.5 KB Mon Apr  8 21:54:10 2024 preunzip
+.rwxr-xr-x root   root     5.5 KB Mon Apr  8 21:54:10 2024 prezip
+.rwxr-xr-x root   root      14 KB Mon Apr  8 21:54:10 2024 prezip-bin
+.rwxr-xr-x root   root     395 B  Thu Jul  3 11:29:52 2025 printafm
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 printenv
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 printf
+.rwxr-xr-x root   root      27 KB Thu Jun  5 18:17:38 2025 prlimit
+lrwxrwxrwx root   root      16 B  Tue Jun 24 18:20:12 2025 pro ⇒ ubuntu-advantage
+.rwxr-xr-x root   root      13 KB Fri Jul 25 23:26:40 2025 prove
+.rwxr-xr-x root   root      18 KB Sun Mar 31 23:02:29 2024 prtstat
+.rwxr-xr-x root   root     143 KB Thu Sep 26 14:44:05 2024 ps
+.rwxr-xr-x root   root     631 B  Thu Jul  3 11:29:52 2025 ps2ascii
+.rwxr-xr-x root   root     1.2 KB Thu Jul  3 11:29:52 2025 ps2epsi
+.rwxr-xr-x root   root     272 B  Thu Jul  3 11:29:52 2025 ps2pdf
+.rwxr-xr-x root   root     215 B  Thu Jul  3 11:29:52 2025 ps2pdf12
+.rwxr-xr-x root   root     215 B  Thu Jul  3 11:29:52 2025 ps2pdf13
+.rwxr-xr-x root   root     215 B  Thu Jul  3 11:29:52 2025 ps2pdf14
+.rwxr-xr-x root   root     1.1 KB Thu Jul  3 11:29:52 2025 ps2pdfwr
+.rwxr-xr-x root   root     647 B  Thu Jul  3 11:29:52 2025 ps2ps
+.rwxr-xr-x root   root     669 B  Thu Jul  3 11:29:52 2025 ps2ps2
+lrwxrwxrwx root   root       8 B  Thu Jul  3 11:29:52 2025 ps2txt ⇒ ps2ascii
+lrwxrwxrwx root   root       9 B  Sun Mar 31 15:02:08 2024 psfaddtable ⇒ psfxtable
+lrwxrwxrwx root   root       9 B  Sun Mar 31 15:02:08 2024 psfgettable ⇒ psfxtable
+lrwxrwxrwx root   root       9 B  Sun Mar 31 15:02:08 2024 psfstriptable ⇒ psfxtable
+.rwxr-xr-x root   root      22 KB Sun Mar 31 15:02:08 2024 psfxtable
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 psidtopgm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 23:02:29 2024 pslog
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 pstopnm
+.rwxr-xr-x root   root      35 KB Sun Mar 31 23:02:29 2024 pstree
+lrwxrwxrwx root   root       6 B  Sun Mar 31 23:02:29 2024 pstree.x11 ⇒ pstree
+.rwxr-xr-x root   root     3.5 KB Fri Jul 25 23:26:40 2025 ptar
+.rwxr-xr-x root   root     2.6 KB Fri Jul 25 23:26:40 2025 ptardiff
+.rwxr-xr-x root   root     4.3 KB Fri Jul 25 23:26:40 2025 ptargrep
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 ptx
+.rwxr-xr-x root   root     1.1 KB Sat Feb 10 23:03:36 2024 purge-old-kernels
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 pwd
+.rwxr-xr-x root   root      14 KB Thu Sep 26 14:44:05 2024 pwdx
+.rwxr-xr-x root   root     7.6 KB Wed Aug  7 23:44:52 2024 py3clean
+.rwxr-xr-x root   root      13 KB Wed Aug  7 23:44:52 2024 py3compile
+lrwxrwxrwx root   root      31 B  Wed Aug  7 23:44:52 2024 py3versions ⇒ ../share/python3/py3versions.py
+lrwxrwxrwx root   root      25 B  Fri Nov 24 16:19:08 2023 pybabel ⇒ /etc/alternatives/pybabel
+.rwxr-xr-x root   root     956 B  Fri Nov 24 16:19:08 2023 pybabel-python3
+lrwxrwxrwx root   root       9 B  Wed Aug  7 23:44:52 2024 pydoc3 ⇒ pydoc3.12
+.rwxr-xr-x root   root      80 B  Wed Jun 18 23:59:45 2025 pydoc3.12
+lrwxrwxrwx root   root      13 B  Wed Aug  7 23:44:52 2024 pygettext3 ⇒ pygettext3.12
+.rwxr-xr-x root   root      24 KB Wed Jun 18 23:59:45 2025 pygettext3.12
+.rwxr-xr-x root   root     215 B  Fri Feb  2 19:26:20 2024 pygmentize
+.rwxr-xr-x root   root     222 B  Tue Aug 27 16:30:39 2024 pyhtmlizer3
+.rwxr-xr-x root   root     975 B  Fri Nov 24 16:38:53 2023 pyserial-miniterm
+.rwxr-xr-x root   root     969 B  Fri Nov 24 16:38:53 2023 pyserial-ports
+lrwxrwxrwx root   root      10 B  Wed Aug  7 23:44:52 2024 python3 ⇒ python3.12
+.rwxr-xr-x root   root     7.7 MB Wed Jun 18 23:59:45 2025 python3.12
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 qoitopam
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 qrttoppm
+lrwxrwxrwx root   root      23 B  Mon Mar 10 19:52:52 2025 ranlib ⇒ x86_64-linux-gnu-ranlib
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 rasttopnm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 rawtopgm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 rawtoppm
+lrwxrwxrwx root   root       4 B  Sun Mar 31 14:41:03 2024 rbash ⇒ bash
+.rwxr-xr-x root   root      14 KB Mon Apr 22 15:45:35 2024 rdjpgcom
+.rwxr-xr-x root   root     102 KB Thu Jul 10 20:46:54 2025 rdma
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 readelf ⇒ x86_64-linux-gnu-readelf
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 readlink
+.rwxr-xr-x root   root      42 KB Fri Apr  5 20:36:57 2024 realpath
+.rwxr-xr-x root   root      89 B  Sat Feb 17 17:12:41 2024 red
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 rename.ul
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 renice
+lrwxrwxrwx root   root       4 B  Mon Apr  8 22:14:03 2024 reset ⇒ tset
+.rwxr-xr-x root   root      26 KB Sun Mar 31 15:02:08 2024 resizecons
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 resizepart
+.rwxr-xr-x root   root     159 KB Wed Jul  2 20:04:32 2025 resolvectl
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 rev
+.rwxr-xr-x root   root     5.0 MB Fri Jan 12 15:50:08 2024 rg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 rgb3toppm
+.rwxr-xr-x root   root      30 B  Fri Jul 21 20:47:24 2023 rgrep
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 rlatopam
+.rwxr-xr-x root   root      38 KB Sun Mar 31 14:09:47 2024 rletopnm
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 rm
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 rmdir
+lrwxrwxrwx root   root       4 B  Thu Oct 10 22:14:07 2024 rnano ⇒ nano
+.rwxr-xr-x root   root     1.6 KB Thu Jul 10 20:46:54 2025 routel
+.rwxr-xr-x root   root      95 KB Mon Apr  8 22:18:34 2024 rpcgen
+.rwxr-xr-x root   root      12 KB Thu Jan 16 15:29:26 2025 rrsync
+.rwxr-xr-x root   root     502 KB Thu Jan 16 15:29:26 2025 rsync
+.rwxr-xr-x root   root     5.0 KB Thu Jan 16 15:29:26 2025 rsync-ssl
+lrwxrwxrwx root   root       6 B  Thu Jul 10 20:46:54 2025 rtstat ⇒ lnstat
+.rwxr-xr-x root   root     3.5 KB Fri Jul 29 20:56:54 2022 run-one
+lrwxrwxrwx root   root       7 B  Fri Jul 29 20:56:54 2022 run-one-constantly ⇒ run-one
+lrwxrwxrwx root   root       7 B  Fri Jul 29 20:56:54 2022 run-one-until-failure ⇒ run-one
+lrwxrwxrwx root   root       7 B  Fri Jul 29 20:56:54 2022 run-one-until-success ⇒ run-one
+.rwxr-xr-x root   root      27 KB Sun Mar 31 14:47:33 2024 run-parts
+lrwxrwxrwx root   root       7 B  Fri Jul 29 20:56:54 2022 run-this-one ⇒ run-one
+.rwxr-xr-x root   root      57 B  Mon Apr  8 21:54:10 2024 run-with-aspell
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 runcon
+lrwxrwxrwx root   root      23 B  Sun Mar 31 06:15:53 2024 rview ⇒ /etc/alternatives/rview
+lrwxrwxrwx root   root      22 B  Fri Jan 17 02:13:18 2025 rvim ⇒ /etc/alternatives/rvim
+lrwxrwxrwx root   root       3 B  Mon Apr  8 22:24:20 2024 rzsh ⇒ zsh
+.rwxr-xr-x root   root      10 KB Sun Mar 31 14:47:33 2024 savelog
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 sbigtopgm
+.rwxr-xr-x root   root     669 KB Thu Jul  3 02:23:42 2025 scalar
+.rwxr-xr-x root   root     135 KB Mon Jun  9 23:22:39 2025 scp
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 screendump
+.rwxr-xr-x root   root      54 KB Thu Jun  5 18:17:38 2025 script
+.rwxr-xr-x root   root      42 KB Thu Jun  5 18:17:38 2025 scriptlive
+.rwxr-xr-x root   root      34 KB Thu Jun  5 18:17:38 2025 scriptreplay
+.rwxr-xr-x root   root      50 KB Mon Apr  8 21:55:59 2024 sdiff
+.rwxr-xr-x root   root     111 KB Mon Apr  8 22:19:08 2024 sed
+.rwxr-xr-x root   root     474 B  Thu Sep  7 14:57:00 2023 select-default-iwrap
+.rwxr-xr-x root   root     2.4 KB Mon Feb  5 00:05:15 2024 select-editor
+.rwxr-xr-x root   root     1.5 KB Mon Feb  5 00:05:15 2024 sensible-browser
+.rwxr-xr-x root   root     1.5 KB Mon Feb  5 00:05:15 2024 sensible-editor
+.rwxr-xr-x root   root     921 B  Mon Feb  5 00:05:15 2024 sensible-pager
+.rwxr-xr-x root   root     1.1 KB Mon Feb  5 00:05:15 2024 sensible-terminal
+.rwxr-xr-x root   root      50 KB Fri Apr  5 20:36:57 2024 seq
+.rwxr-xr-x root   root      22 KB Sun Mar 31 23:12:37 2024 session-migration
+.rwxr-xr-x root   root      27 KB Thu Jun  5 18:17:38 2025 setarch
+.rwxr-xr-x root   root      54 KB Sun Mar 31 15:02:08 2024 setfont
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 setkeycodes
+.rwxr-xr-x root   root      18 KB Sun Mar 31 15:02:08 2024 setleds
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 setlogcons
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 setmetamode
+.rwxr-xr-x root   root      30 KB Mon Apr  8 22:15:21 2024 setpci
+.rwxr-xr-x root   root      38 KB Thu Jun  5 18:17:38 2025 setpriv
+.rwxr-xr-x root   root      14 KB Thu Jun  5 18:17:38 2025 setsid
+.rwxr-xr-x root   root      34 KB Thu Jun  5 18:17:38 2025 setterm
+.rwxr-xr-x root   root      40 KB Mon Feb 26 18:58:31 2024 setupcon
+.rwxr-xr-x root   root     151 KB Mon Jun  9 23:22:39 2025 sftp
+lrwxrwxrwx root   root       6 B  Thu May 30 20:52:35 2024 sg ⇒ newgrp
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 sgitopnm
+lrwxrwxrwx root   root       4 B  Sun Mar 31 14:47:26 2024 sh ⇒ dash
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 sha1sum
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 sha224sum
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 sha256sum
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 sha384sum
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 sha512sum
+.rwxr-xr-x root   root     9.7 KB Fri Jul 25 23:26:40 2025 shasum
+.rwxr-xr-x root   root      18 MB Sun Dec 18 20:54:01 2022 shellcheck
+.rwxr-xr-x root   root     2.9 MB Sun Feb 18 21:15:32 2024 shfmt
+.rwxr-xr-x root   root      18 KB Sun Mar 31 15:02:08 2024 showconsolefont
+.rwxr-xr-x root   root      18 KB Sun Mar 31 15:02:08 2024 showkey
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 shred
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 shuf
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 sirtopnm
+.rwxr-xr-x root   root      14 KB Thu Apr 18 23:49:39 2024 sixel2png
+lrwxrwxrwx root   root      21 B  Mon Mar 10 19:52:52 2025 size ⇒ x86_64-linux-gnu-size
+.rwxr-xr-x root   root      26 KB Thu Sep 26 14:44:05 2024 skill
+.rwxr-xr-x root   root      22 KB Thu Sep 26 14:44:05 2024 slabtop
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 sldtoppm
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 sleep
+lrwxrwxrwx root   root       3 B  Mon Jun  9 23:22:39 2025 slogin ⇒ ssh
+.rwxr-xr-x root   root      20 MB Wed May 21 21:46:09 2025 snap
+lrwxrwxrwx root   root      20 B  Wed May 21 21:46:09 2025 snapctl ⇒ ../lib/snapd/snapctl
+.rwxr-xr-x root   root      38 KB Wed May 21 21:46:09 2025 snapfuse
+lrwxrwxrwx root   root       5 B  Thu Sep 26 14:44:05 2024 snice ⇒ skill
+.rwxr-xr-x root   root      34 KB Sun Mar 31 14:54:31 2024 soelim
+.rwxr-xr-x root   root     103 KB Fri Apr  5 20:36:57 2024 sort
+.rwxr-xr-x root   root     4.2 KB Wed Jul  9 22:47:47 2025 sotruss
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 spctoppm
+.rwxr-xr-x root   root      19 KB Fri Jul 25 23:26:40 2025 splain
+.rwxr-xr-x root   root      55 KB Fri Apr  5 20:36:57 2024 split
+.rwxr-xr-x root   root      14 KB Sun Mar 31 15:02:08 2024 splitfont
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 spottopgm
+.rwxr-xr-x root   root      34 KB Wed Jul  9 22:47:47 2025 sprof
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 sputoppm
+lrwxrwxrwx root   root      10 B  Mon Apr  8 22:20:03 2024 sqfscat ⇒ unsquashfs
+lrwxrwxrwx root   root      10 B  Mon Apr  8 22:20:03 2024 sqfstar ⇒ mksquashfs
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 srftopam
+.rwxr-xr-x root   root     129 KB Thu Jul 10 20:46:54 2025 ss
+.rwxr-xr-x root   root     827 KB Mon Jun  9 23:22:39 2025 ssh
+.rwxr-xr-x root   root     294 KB Mon Jun  9 23:22:39 2025 ssh-add
+.rwxr-sr-x root   _ssh     302 KB Mon Jun  9 23:22:39 2025 ssh-agent
+.rwxr-xr-x root   root     1.4 KB Tue Jul 30 22:12:40 2024 ssh-argv0
+.rwxr-xr-x root   root      13 KB Mon Dec 18 20:59:50 2023 ssh-copy-id
+.rwxr-xr-x root   root     985 B  Wed Oct 30 15:19:01 2024 ssh-import-id
+.rwxr-xr-x root   root     785 B  Tue Dec  8 01:19:36 2020 ssh-import-id-gh
+.rwxr-xr-x root   root     785 B  Tue Dec  8 01:19:36 2020 ssh-import-id-lp
+.rwxr-xr-x root   root     442 KB Mon Jun  9 23:22:39 2025 ssh-keygen
+.rwxr-xr-x root   root     330 KB Mon Jun  9 23:22:39 2025 ssh-keyscan
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 st4topgm
+.rwxr-xr-x root   root      86 KB Fri Apr  5 20:36:57 2024 stat
+.rwxr-xr-x root   root      50 KB Fri Apr  5 20:36:57 2024 stdbuf
+lrwxrwxrwx root   root      24 B  Sun Mar 31 07:25:01 2024 stream ⇒ /etc/alternatives/stream
+lrwxrwxrwx root   root      28 B  Sun Mar 31 07:25:01 2024 stream-im6 ⇒ /etc/alternatives/stream-im6
+.rwxr-xr-x root   root      14 KB Sun Mar 31 07:25:01 2024 stream-im6.q16
+.rwxr-xr-x root   root     7.9 KB Fri Jul 25 23:26:40 2025 streamzip
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 strings ⇒ x86_64-linux-gnu-strings
+lrwxrwxrwx root   root      22 B  Mon Mar 10 19:52:52 2025 strip ⇒ x86_64-linux-gnu-strip
+.rwxr-xr-x root   root      78 KB Fri Apr  5 20:36:57 2024 stty
+.rwsr-xr-x root   root      54 KB Thu Jun  5 18:17:38 2025 su
+.rwsr-xr-x root   root     271 KB Wed Jun 25 18:42:53 2025 sudo
+lrwxrwxrwx root   root       4 B  Wed Jun 25 18:42:53 2025 sudoedit ⇒ sudo
+.rwxr-xr-x root   root      96 KB Wed Jun 25 18:42:53 2025 sudoreplay
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 sum
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 sunicontopnm
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 svgtopam
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 sync
+.rwxr-xr-x root   root     1.4 MB Wed Jul  2 20:04:32 2025 systemctl
+lrwxrwxrwx root   root      22 B  Wed Jul  2 20:04:32 2025 systemd ⇒ ../lib/systemd/systemd
+.rwxr-xr-x root   root      14 KB Wed Jul  2 20:04:32 2025 systemd-ac-power
+.rwxr-xr-x root   root     199 KB Wed Jul  2 20:04:32 2025 systemd-analyze
+.rwxr-xr-x root   root      19 KB Wed Jul  2 20:04:32 2025 systemd-ask-password
+.rwxr-xr-x root   root      18 KB Wed Jul  2 20:04:32 2025 systemd-cat
+.rwxr-xr-x root   root      23 KB Wed Jul  2 20:04:32 2025 systemd-cgls
+.rwxr-xr-x root   root      38 KB Wed Jul  2 20:04:32 2025 systemd-cgtop
+lrwxrwxrwx root   root      14 B  Wed Jul  2 20:04:32 2025 systemd-confext ⇒ systemd-sysext
+.rwxr-xr-x root   root      43 KB Wed Jul  2 20:04:32 2025 systemd-creds
+.rwxr-xr-x root   root      71 KB Wed Jul  2 20:04:32 2025 systemd-cryptenroll
+.rwxr-xr-x root   root      79 KB Wed Jul  2 20:04:32 2025 systemd-cryptsetup
+.rwxr-xr-x root   root      26 KB Wed Jul  2 20:04:32 2025 systemd-delta
+.rwxr-xr-x root   root      18 KB Wed Jul  2 20:04:32 2025 systemd-detect-virt
+.rwxr-xr-x root   root      22 KB Wed Jul  2 20:04:32 2025 systemd-escape
+.rwxr-xr-x root   root      59 KB Wed Jul  2 20:04:32 2025 systemd-firstboot
+.rwxr-xr-x root   root     155 KB Wed Jul  2 20:04:32 2025 systemd-hwdb
+.rwxr-xr-x root   root      22 KB Wed Jul  2 20:04:32 2025 systemd-id128
+.rwxr-xr-x root   root      22 KB Wed Jul  2 20:04:32 2025 systemd-inhibit
+.rwxr-xr-x root   root      19 KB Wed Jul  2 20:04:32 2025 systemd-machine-id-setup
+.rwxr-xr-x root   root      51 KB Wed Jul  2 20:04:32 2025 systemd-mount
+.rwxr-xr-x root   root      27 KB Wed Jul  2 20:04:32 2025 systemd-notify
+.rwxr-xr-x root   root      18 KB Wed Jul  2 20:04:32 2025 systemd-path
+.rwxr-xr-x root   root     195 KB Wed Jul  2 20:04:32 2025 systemd-repart
+.rwxr-xr-x root   root      67 KB Wed Jul  2 20:04:32 2025 systemd-run
+.rwxr-xr-x root   root      30 KB Wed Jul  2 20:04:32 2025 systemd-socket-activate
+.rwxr-xr-x root   root      22 KB Wed Jul  2 20:04:32 2025 systemd-stdio-bridge
+.rwxr-xr-x root   root      55 KB Wed Jul  2 20:04:32 2025 systemd-sysext
+.rwxr-xr-x root   root      67 KB Wed Jul  2 20:04:32 2025 systemd-sysusers
+.rwxr-xr-x root   root     115 KB Wed Jul  2 20:04:32 2025 systemd-tmpfiles
+.rwxr-xr-x root   root      34 KB Wed Jul  2 20:04:32 2025 systemd-tty-ask-password-agent
+lrwxrwxrwx root   root      13 B  Wed Jul  2 20:04:32 2025 systemd-umount ⇒ systemd-mount
+.rwxr-xr-x root   root      18 KB Mon Apr  8 22:14:03 2024 tabs
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 tac
+.rwxr-xr-x root   root      62 KB Fri Apr  5 20:36:57 2024 tail
+.rwxr-xr-x root   root     422 KB Mon Apr  8 22:20:47 2024 tar
+.rwxr-xr-x root   root      30 KB Thu Jun  5 18:17:38 2025 taskset
+.rwxr-xr-x root   root     134 KB Sun Mar 31 14:54:31 2024 tbl
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 tee
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:47:33 2024 tempfile
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 test
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 tgatoppm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 thinkjettopbm
+.rwxr-xr-x root   root      90 KB Mon Apr  8 22:14:03 2024 tic
+.rwxr-xr-x root   root      42 KB Sun Mar 31 14:09:47 2024 tifftopnm
+.rwxr-xr-x root   root      26 KB Mon Apr  8 22:21:02 2024 time
+.rwxr-xr-x root   root      46 KB Wed Jul  2 20:04:32 2025 timedatectl
+.rwxr-xr-x root   root      39 KB Fri Apr  5 20:36:57 2024 timeout
+.rwxr-xr-x root   root     227 B  Tue Aug 27 16:30:39 2024 tkconch3
+lrwxrwxrwx root   root      22 B  Wed Oct 25 12:19:39 2023 tldr ⇒ /etc/alternatives/tldr
+.rwxr-xr-x root   root      26 MB Wed Oct 25 12:19:39 2023 tldr-hs
+.rwxr-xr-x root   root      22 KB Thu Sep 26 14:44:05 2024 tload
+.rwxr-xr-x root   root     1.1 MB Thu Jul 11 03:57:26 2024 tmux
+.rwxr-xr-x root   root     183 KB Mon Apr  8 20:50:55 2024 tnftp
+.rwxr-xr-x root   root      22 KB Mon Apr  8 22:14:03 2024 toe
+.rwxr-xr-x root   root      27 KB Thu Apr 18 23:52:17 2024 toilet
+.rwxr-xr-x root   root     132 KB Thu Sep 26 14:44:05 2024 top
+.rwxr-xr-x root   root      94 KB Fri Apr  5 20:36:57 2024 touch
+.rwxr-xr-x root   root      26 KB Mon Apr  8 22:14:03 2024 tput
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 tr
+lrwxrwxrwx root   root      28 B  Mon Dec 25 13:29:19 2023 traceproto ⇒ /etc/alternatives/traceproto
+.rwxr-xr-x root   root     2.8 KB Mon Dec 25 13:29:19 2023 traceproto.db
+lrwxrwxrwx root   root      28 B  Mon Dec 25 13:29:19 2023 traceroute ⇒ /etc/alternatives/traceroute
+.rwxr-xr-x root   root     1.6 KB Mon Dec 25 13:29:19 2023 traceroute-nanog
+.rwxr-xr-x root   root      79 KB Mon Dec 25 13:29:19 2023 traceroute.db
+lrwxrwxrwx root   root      29 B  Mon Dec 25 13:29:19 2023 traceroute6 ⇒ /etc/alternatives/traceroute6
+lrwxrwxrwx root   root      13 B  Mon Dec 25 13:29:19 2023 traceroute6.db ⇒ traceroute.db
+.rwxr-xr-x root   root     219 B  Tue Aug 27 16:30:39 2024 trial3
+.rwxr-xr-x root   root     727 KB Sun Mar 31 14:54:31 2024 troff
+.rwxr-xr-x root   root      26 KB Fri Apr  5 20:36:57 2024 true
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 truncate
+.rwxr-xr-x root   root      26 KB Mon Apr  8 22:14:03 2024 tset
+.rwxr-xr-x root   root      46 KB Fri Apr  5 20:36:57 2024 tsort
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 tty
+.rwxr-xr-x root   root     239 B  Tue Aug 27 16:30:39 2024 twist3
+.rwxr-xr-x root   root     220 B  Tue Aug 27 16:30:39 2024 twistd3
+.rwxr-xr-x root   root      15 KB Wed Jul  9 22:47:47 2025 tzselect
+lrwxrwxrwx root   root      16 B  Tue Jun 24 18:20:12 2025 ua ⇒ ubuntu-advantage
+.rwxr-xr-x root   root    1003 B  Tue Jun 24 18:20:12 2025 ubuntu-advantage
+lrwxrwxrwx root   root      10 B  Tue Jul  8 20:50:50 2025 ubuntu-bug ⇒ apport-bug
+.rwxr-xr-x root   root      27 KB Mon Apr  8 21:56:08 2024 ubuntu-distro-info
+.rwxr-xr-x root   root      22 KB Fri Apr 25 19:16:13 2025 ubuntu-security-status
+.rwxr-xr-x root   root      41 KB Fri Jan 27 19:29:51 2023 ucf
+.rwxr-xr-x root   root      19 KB Fri Jan 27 19:29:51 2023 ucfq
+.rwxr-xr-x root   root      11 KB Fri Jan 27 19:29:51 2023 ucfr
+.rwxr-xr-x root   root      30 KB Thu Jun  5 18:17:38 2025 uclampset
+.rwxr-xr-x root   root      26 KB Mon Apr  8 22:22:57 2024 ucs2any
+.rwxr-xr-x root   root     1.4 MB Wed Jul  2 20:04:32 2025 udevadm
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 ul
+.rwsr-xr-x root   root      38 KB Thu Jun  5 18:17:38 2025 umount
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 uname
+.rwxr-xr-x root   root      97 KB Mon Feb 12 23:50:35 2024 unattended-upgrade
+lrwxrwxrwx root   root      18 B  Mon Feb 12 23:50:35 2024 unattended-upgrades ⇒ unattended-upgrade
+.rwxr-xr-x root   root     2.3 KB Mon Jan 27 22:56:44 2025 uncompress
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 unexpand
+.rwxr-xr-x root   root     2.7 KB Sun Mar 31 15:02:08 2024 unicode_start
+.rwxr-xr-x root   root     528 B  Sun Mar 31 15:02:08 2024 unicode_stop
+.rwxr-xr-x root   root      38 KB Fri Apr  5 20:36:57 2024 uniq
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 unlink
+lrwxrwxrwx root   root      24 B  Fri Aug  9 08:33:21 2024 unlzma ⇒ /etc/alternatives/unlzma
+.rwxr-xr-x root   root      43 KB Thu Jun  5 18:17:38 2025 unshare
+.rwxr-xr-x root   root     148 KB Mon Apr  8 22:20:03 2024 unsquashfs
+lrwxrwxrwx root   root       2 B  Tue Apr  1 00:22:22 2025 unxz ⇒ xz
+.rwxr-xr-x root   root     174 KB Wed Oct  2 19:29:19 2024 unzip
+.rwxr-xr-x root   root      74 KB Wed Oct  2 19:29:19 2024 unzipsfx
+.rwxr-xr-x root   root      58 KB Wed Jul 17 15:09:50 2024 update-alternatives
+.rwxr-xr-x root   root      74 KB Mon Apr  1 17:58:12 2024 update-mime-database
+.rwxr-xr-x root   root      14 KB Thu Sep 26 14:44:05 2024 uptime
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 users
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 utmpdump
+.rwxr-xr-x root   root      18 KB Thu Jun  5 18:17:38 2025 uuidgen
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 uuidparse
+.rwxr-xr-x root   root      30 KB Wed Jul  2 20:04:32 2025 varlinkctl
+.rwxr-xr-x root   root     6.8 KB Fri Jun  3 16:51:54 2022 vcs-run
+.rwxr-xr-x root   root     139 KB Fri Apr  5 20:36:57 2024 vdir
+lrwxrwxrwx root   root      20 B  Sun Mar 31 06:15:53 2024 vi ⇒ /etc/alternatives/vi
+lrwxrwxrwx root   root      22 B  Sun Mar 31 06:15:53 2024 view ⇒ /etc/alternatives/view
+.rwxr-xr-x root   root     2.6 KB Sat Feb 10 23:03:36 2024 vigpg
+lrwxrwxrwx root   root      21 B  Fri Jan 17 02:13:18 2025 vim ⇒ /etc/alternatives/vim
+.rwxr-xr-x root   root     3.9 MB Wed Apr  2 02:12:31 2025 vim.basic
+.rwxr-xr-x root   root     1.7 MB Wed Apr  2 02:12:31 2025 vim.tiny
+lrwxrwxrwx root   root      25 B  Fri Jan 17 02:13:18 2025 vimdiff ⇒ /etc/alternatives/vimdiff
+.rwxr-xr-x root   root     2.1 KB Wed Apr  2 02:12:31 2025 vimtutor
+.rwxr-xr-x root   root      39 KB Thu Sep 26 14:44:05 2024 vmstat
+.rwxr-xr-x root   root      26 KB Thu Sep 26 14:44:05 2024 w
+.rwxr-xr-x root   root     1.6 MB Mon Apr  8 20:51:49 2024 w3m
+.rwxr-xr-x root   root     1.4 KB Mon Apr  8 20:51:49 2024 w3mman
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 wall
+.rwxr-xr-x root   root      31 KB Thu Sep 26 14:44:05 2024 watch
+.rwxr-xr-x root   root      22 KB Thu Jun 26 19:17:22 2025 watchgnupg
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 wbmptopbm
+.rwxr-xr-x root   root      54 KB Fri Apr  5 20:36:57 2024 wc
+.rwxr-xr-x root   root      34 KB Thu Jun  5 18:17:38 2025 wdctl
+.rwxr-xr-x root   root     459 KB Wed Jun 19 18:14:03 2024 wget
+.rwxr-xr-x root   root      47 KB Mon Apr  8 20:45:49 2024 whatis
+.rwxr-xr-x root   root      31 KB Thu Jun  5 18:17:38 2025 whereis
+lrwxrwxrwx root   root      23 B  Sun Mar 31 14:47:33 2024 which ⇒ /etc/alternatives/which
+.rwxr-xr-x root   root     1.1 KB Sun Mar 31 14:47:33 2024 which.debianutils
+.rwxr-xr-x root   root      30 KB Sun Mar 31 14:10:06 2024 whiptail
+.rwxr-xr-x root   root      58 KB Fri Apr  5 20:36:57 2024 who
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 whoami
+.rwxr-xr-x root   root     156 KB Tue Apr  2 00:14:41 2024 whois
+.rwxr-xr-x root   root     2.1 KB Sat Feb 10 23:03:36 2024 wifi-status
+.rwxr-xr-x root   root      22 KB Sun Mar 31 14:09:47 2024 winicontopam
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 winicontoppm
+.rwxr-xr-x root   root      14 KB Mon Apr  8 21:54:10 2024 word-list-compress
+.rwxr-xr-x root   root      22 KB Thu Jun  5 18:17:38 2025 write
+.rwxr-xr-x root   root      14 KB Mon Apr 22 15:45:35 2024 wrjpgcom
+lrwxrwxrwx root   root       5 B  Fri Jul 11 16:53:41 2025 wslinfo ⇒ /init
+lrwxrwxrwx root   root       5 B  Fri Jul 11 16:53:41 2025 wslpath ⇒ /init
+lrwxrwxrwx root   root      29 B  Mon Apr  8 20:51:49 2024 www-browser ⇒ /etc/alternatives/www-browser
+lrwxrwxrwx root   root       1 B  Mon Apr  8 22:23:20 2024 X11 ⇒ .
+lrwxrwxrwx root   root       7 B  Thu Jun  5 18:17:38 2025 x86_64 ⇒ setarch
+.rwxr-xr-x root   root      31 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-addr2line
+.rwxr-xr-x root   root      54 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-ar
+.rwxr-xr-x root   root     728 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-as
+.rwxr-xr-x root   root      22 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-c++filt
+lrwxrwxrwx root   root      23 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-cpp ⇒ x86_64-linux-gnu-cpp-13
+.rwxr-xr-x root   root    1003 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-cpp-13
+.rwxr-xr-x root   root     1.9 MB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-dwp
+.rwxr-xr-x root   root      35 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-elfedit
+lrwxrwxrwx root   root      23 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-g++ ⇒ x86_64-linux-gnu-g++-13
+.rwxr-xr-x root   root    1003 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-g++-13
+lrwxrwxrwx root   root      23 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcc ⇒ x86_64-linux-gnu-gcc-13
+.rwxr-xr-x root   root     999 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcc-13
+lrwxrwxrwx root   root      26 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcc-ar ⇒ x86_64-linux-gnu-gcc-ar-13
+.rwxr-xr-x root   root      27 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcc-ar-13
+lrwxrwxrwx root   root      26 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcc-nm ⇒ x86_64-linux-gnu-gcc-nm-13
+.rwxr-xr-x root   root      27 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcc-nm-13
+lrwxrwxrwx root   root      30 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcc-ranlib ⇒ x86_64-linux-gnu-gcc-ranlib-13
+.rwxr-xr-x root   root      27 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcc-ranlib-13
+lrwxrwxrwx root   root      24 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcov ⇒ x86_64-linux-gnu-gcov-13
+.rwxr-xr-x root   root     432 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcov-13
+lrwxrwxrwx root   root      29 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcov-dump ⇒ x86_64-linux-gnu-gcov-dump-13
+.rwxr-xr-x root   root     348 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcov-dump-13
+lrwxrwxrwx root   root      29 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-gcov-tool ⇒ x86_64-linux-gnu-gcov-tool-13
+.rwxr-xr-x root   root     304 KB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-gcov-tool-13
+lrwxrwxrwx root   root      24 B  Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gold ⇒ x86_64-linux-gnu-ld.gold
+.rwxr-xr-x root   root     158 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gp-archive
+.rwxr-xr-x root   root     174 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gp-collect-app
+.rwxr-xr-x root   root     627 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gp-display-html
+.rwxr-xr-x root   root     150 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gp-display-src
+.rwxr-xr-x root   root     290 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gp-display-text
+.rwxr-xr-x root   root     100 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gprof
+.rwxr-xr-x root   root     138 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-gprofng
+lrwxrwxrwx root   root      23 B  Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-ld ⇒ x86_64-linux-gnu-ld.bfd
+.rwxr-xr-x root   root     1.3 MB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-ld.bfd
+.rwxr-xr-x root   root     3.1 MB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-ld.gold
+lrwxrwxrwx root   root      28 B  Wed Jan 31 19:09:40 2024 x86_64-linux-gnu-lto-dump ⇒ x86_64-linux-gnu-lto-dump-13
+.rwxr-xr-x root   root      28 MB Wed Sep  4 20:44:14 2024 x86_64-linux-gnu-lto-dump-13
+.rwxr-xr-x root   root      44 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-nm
+.rwxr-xr-x root   root     163 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-objcopy
+.rwxr-xr-x root   root     382 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-objdump
+.rwxr-xr-x root   root      54 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-ranlib
+.rwxr-xr-x root   root     771 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-readelf
+.rwxr-xr-x root   root      30 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-size
+.rwxr-xr-x root   root      35 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-strings
+.rwxr-xr-x root   root     163 KB Mon Mar 10 19:52:52 2025 x86_64-linux-gnu-strip
+.rwxr-xr-x root   root      62 KB Mon Apr  8 21:57:28 2024 xargs
+.rwxr-xr-x root   root      55 KB Mon Apr  8 22:22:21 2024 xauth
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 xbmtopbm
+.rwxr-xr-x root   root     234 B  Mon Apr  8 22:22:47 2024 xdg-user-dir
+.rwxr-xr-x root   root      26 KB Mon Apr  8 22:22:47 2024 xdg-user-dirs-update
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ximtoppm
+.rwxr-xr-x root   root      18 KB Sun Mar 31 14:09:47 2024 xpmtoppm
+.rwxr-xr-x root   root     5.0 KB Fri Jul 25 23:26:40 2025 xsubpp
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 xvminitoppm
+.rwxr-xr-x root   root      26 KB Sun Mar 31 14:09:47 2024 xwdtopnm
+.rwxr-xr-x root   root      22 KB Wed Apr  2 02:12:31 2025 xxd
+.rwxr-xr-x root   root      87 KB Tue Apr  1 00:22:22 2025 xz
+lrwxrwxrwx root   root       2 B  Tue Apr  1 00:22:22 2025 xzcat ⇒ xz
+lrwxrwxrwx root   root       6 B  Tue Apr  1 00:22:22 2025 xzcmp ⇒ xzdiff
+.rwxr-xr-x root   root     7.2 KB Tue Apr  1 00:22:22 2025 xzdiff
+lrwxrwxrwx root   root       6 B  Tue Apr  1 00:22:22 2025 xzegrep ⇒ xzgrep
+lrwxrwxrwx root   root       6 B  Tue Apr  1 00:22:22 2025 xzfgrep ⇒ xzgrep
+.rwxr-xr-x root   root      10 KB Tue Apr  1 00:22:22 2025 xzgrep
+.rwxr-xr-x root   root     1.8 KB Tue Apr  1 00:22:22 2025 xzless
+.rwxr-xr-x root   root     2.1 KB Tue Apr  1 00:22:22 2025 xzmore
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 ybmtopbm
+.rwxr-xr-x root   root      34 KB Fri Apr  5 20:36:57 2024 yes
+lrwxrwxrwx root   root       8 B  Mon Apr  8 21:59:01 2024 ypdomainname ⇒ hostname
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 yuvsplittoppm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 yuvtoppm
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 yuy2topam
+.rwxr-xr-x root   root     1.9 KB Mon Jan 27 22:56:44 2025 zcat
+.rwxr-xr-x root   root     1.6 KB Mon Jan 27 22:56:44 2025 zcmp
+.rwxr-xr-x root   root     6.3 KB Mon Jan 27 22:56:44 2025 zdiff
+.rwxr-xr-x root   root      30 KB Wed Jul  9 22:47:47 2025 zdump
+.rwxr-xr-x root   root      29 B  Mon Jan 27 22:56:44 2025 zegrep
+.rwxr-xr-x root   root      14 KB Sun Mar 31 14:09:47 2024 zeisstopnm
+.rwxr-xr-x root   root      29 B  Mon Jan 27 22:56:44 2025 zfgrep
+.rwxr-xr-x root   root     2.0 KB Mon Jan 27 22:56:44 2025 zforce
+.rwxr-xr-x root   root     7.9 KB Mon Jan 27 22:56:44 2025 zgrep
+.rwxr-xr-x root   root     207 KB Wed Jan 22 15:00:33 2025 zip
+.rwxr-xr-x root   root      70 KB Wed Jan 22 15:00:33 2025 zipcloak
+.rwxr-xr-x root   root      68 KB Fri Jul 25 23:26:40 2025 zipdetails
+.rwxr-xr-x root   root     2.9 KB Wed Oct  2 19:29:19 2024 zipgrep
+.rwxr-xr-x root   root     174 KB Wed Oct  2 19:29:19 2024 zipinfo
+.rwxr-xr-x root   root      62 KB Wed Jan 22 15:00:33 2025 zipnote
+.rwxr-xr-x root   root      58 KB Wed Jan 22 15:00:33 2025 zipsplit
+.rwxr-xr-x root   root     2.2 KB Mon Jan 27 22:56:44 2025 zless
+.rwxr-xr-x root   root     1.8 KB Mon Jan 27 22:56:44 2025 zmore
+.rwxr-xr-x root   root     4.5 KB Mon Jan 27 22:56:44 2025 znew
+.rwxr-xr-x root   root     953 KB Mon Apr  8 22:24:20 2024 zsh
+.rwxr-xr-x root   root     852 B  Sat Feb 24 03:31:08 2024 zsh5
